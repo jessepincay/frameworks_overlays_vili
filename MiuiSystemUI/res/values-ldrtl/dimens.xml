@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lb_onboarding_start_button_translation_offset">-16.0dip</dimen>
+    <dimen name="miuix_appcompat_action_bar_subtitle_bg_end_margin">5.399994dip</dimen>
+    <dimen name="miuix_appcompat_action_bar_subtitle_bg_start_margin">0.0dip</dimen>
+</resources>

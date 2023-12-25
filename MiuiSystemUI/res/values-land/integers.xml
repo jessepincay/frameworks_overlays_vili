@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_dockedStackDividerSnapMode">2</integer>
+    <integer name="dismiss_button_layout_gravity">0x00800015</integer>
+    <integer name="miui_keyboard_shortcuts_number">30</integer>
+    <integer name="miui_keyboard_shortcuts_row_max_number">3</integer>
+    <integer name="mtrl_calendar_header_orientation">0</integer>
+    <integer name="mtrl_calendar_selection_text_lines">6</integer>
+    <integer name="navigation_bar_deadzone_orientation">1</integer>
+    <integer name="power_menu_lite_max_columns">4</integer>
+    <integer name="power_menu_lite_max_rows">2</integer>
+    <integer name="qs_security_footer_maxLines">1</integer>
+    <integer name="quick_settings_max_rows">2</integer>
+    <integer name="quick_settings_num_columns">5</integer>
+    <integer name="quick_settings_num_rows">2</integer>
+    <integer name="quick_settings_qqs_count">6</integer>
+    <integer name="power_menu_max_columns">4</integer>
+    <integer name="quick_settings_user_time_settings_tile_span">2</integer>
+</resources>

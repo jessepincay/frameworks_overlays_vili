@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/qs_control_tiles_indicator_height" android:width="@dimen/qs_control_tiles_indicator_width" android:viewportWidth="120.0" android:viewportHeight="10.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/qs_control_tiles_expand_indicator_color" android:pathData="M5,0L115,0A5,5 0,0 1,120 5L120,5A5,5 0,0 1,115 10L5,10A5,5 0,0 1,0 5L0,5A5,5 0,0 1,5 0z" />
+    <path android:fillColor="@color/qs_control_tiles_expand_indicator_color" android:pathData="M5,0L115,0A5,5 0,0 1,120 5L120,5A5,5 0,0 1,115 10L5,10A5,5 0,0 1,0 5L0,5A5,5 0,0 1,5 0z" android:fillAlpha="0.1" />
+</vector>

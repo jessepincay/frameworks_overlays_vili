@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/time_floating_window_text_size" android:textColor="#ffffffff" android:gravity="center" android:id="@id/floating_time_text" android:background="@drawable/time_floating_window_background" android:padding="@dimen/time_floating_window_padding" android:layout_width="@dimen/time_floating_window_width" android:layout_height="wrap_content" />
+</LinearLayout>

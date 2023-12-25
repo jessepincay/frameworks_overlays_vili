@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/sec_flares_bg_loc" />
+    <size android:height="@dimen/sec_flares_capsule_circle_radius" android:width="@dimen/sec_flares_capsule_circle_radius" />
+</shape>

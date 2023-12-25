@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:id="@id/app_info" android:background="@drawable/mini_status_bar_state_bg" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@android:id/icon" android:layout_width="wrap_content" android:layout_height="@dimen/mini_state_icon_height" />
+    <TextView android:id="@id/gap" android:visibility="gone" android:layout_width="@dimen/state_icon_margin_end" android:layout_height="wrap_content" />
+    <Chronometer android:id="@id/chronometer" android:minWidth="@dimen/mini_state_content_min_width" android:textAlignment="center" style="@style/MiuiStatusBarState.Text.Mini" />
+    <TextView android:id="@android:id/title" android:minWidth="@dimen/mini_state_content_min_width" android:textAlignment="center" style="@style/MiuiStatusBarState.Text.Mini" />
+</LinearLayout>

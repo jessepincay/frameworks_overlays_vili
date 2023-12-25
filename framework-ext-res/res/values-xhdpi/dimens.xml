@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="boot_msg_top_padding">270.5dip</dimen>
+    <dimen name="customizer_icon_content_size">57.0dip</dimen>
+    <dimen name="customizer_icon_size">61.0dip</dimen>
+    <dimen name="screen_on_proximity_sensor_hint_height">291.0dip</dimen>
+    <dimen name="standard_state_icon_height">14.0dip</dimen>
+    <dimen name="standard_state_icon_width">14.0dip</dimen>
+    <dimen name="text_action_popup_padding">13.0dip</dimen>
+    <dimen name="text_action_popup_padding_small">8.299988dip</dimen>
+    <dimen name="text_edit_action_popup_text_size">13.0sp</dimen>
+    <dimen name="customizer_irregular_content_size">43.0dip</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.internal.widget.MiuiSplitScreenCaptionView android:orientation="vertical" android:clipChildren="false" android:clipToPadding="false" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="bottom|center" android:background="@android:color/transparent" android:focusable="false" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="@android:dimen/status_bar_system_icon_size">
+        <LinearLayout android:gravity="center" android:id="@id/miui_split_screen_drag_bar_layout" android:focusable="true" android:layout_width="@dimen/miui_multiwindow_width_of_drag_bar" android:layout_height="@dimen/miui_multiwindow_height_of_drag_bar">
+            <com.android.internal.widget.MiuiMultiWinImageView android:layout_gravity="center|top" android:id="@id/miui_multiwindow_split_screen_drag_bar" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.199982dip" android:src="@drawable/split_drag_bar_view_normal" android:scaleType="fitCenter" />
+        </LinearLayout>
+    </RelativeLayout>
+</com.android.internal.widget.MiuiSplitScreenCaptionView>

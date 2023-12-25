@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar_subtitle_bottom_margin">0.0dip</dimen>
+    <dimen name="action_bar_subtitle_top_margin">-3.0dip</dimen>
+    <dimen name="alert_dialog_button_bar_height">48.0dip</dimen>
+    <item type="dimen" name="android_navigation_bar_size">@android:dimen/navigation_bar_height_portrait</item>
+    <item type="dimen" name="android_preference_item_padding_side">@android:dimen/preference_screen_header_vertical_padding_material</item>
+    <item type="dimen" name="android_status_bar_height">@android:dimen/status_bar_system_icon_size</item>
+    <item type="dimen" name="android_status_bar_icon_size">@android:dimen/subtitle_shadow_radius</item>
+    <dimen name="arrow_popup_triangle_corners">2.0dip</dimen>
+    <dimen name="arrow_popup_triangle_padding">30.0dip</dimen>
+    <dimen name="arrow_popup_triangle_padding_adjust">-9.699982dip</dimen>
+    <dimen name="arrow_popup_view_min_height">72.66998dip</dimen>
+    <dimen name="arrow_popup_view_paddingBottom">16.669983dip</dimen>
+    <dimen name="arrow_popup_view_paddingEnd">14.669983dip</dimen>
+    <dimen name="arrow_popup_view_paddingStart">14.329987dip</dimen>
+    <dimen name="arrow_popup_view_paddingTop">13.329987dip</dimen>
+    <dimen name="arrow_popup_view_round_corners">12.0dip</dimen>
+    <dimen name="arrow_popup_window_elevation">10.0dip</dimen>
+    <dimen name="arrow_popup_window_list_max_height">400.0dip</dimen>
+    <dimen name="arrow_popup_window_min_border">15.0dip</dimen>
+    <dimen name="boot_msg_bottom_padding">42.0dip</dimen>
+    <dimen name="boot_msg_left_padding">110.0dip</dimen>
+    <dimen name="boot_msg_right_padding">110.0dip</dimen>
+    <dimen name="boot_msg_textsize">11.0sp</dimen>
+    <dimen name="boot_msg_top_padding">240.66dip</dimen>
+    <dimen name="bottom_bar_hotspot_long">142.18dip</dimen>
+    <dimen name="bottom_bar_hotspot_short">107.639984dip</dimen>
+    <dimen name="bottom_drag_bar_top_margin">3.0dip</dimen>
+    <item type="dimen" name="config_GammaLinearConvertAValue">0.314</item>
+    <item type="dimen" name="config_GammaLinearConvertBValue">0.06</item>
+    <item type="dimen" name="config_GammaLinearConvertCValue">0.221</item>
+    <item type="dimen" name="config_GammaLinearConvertRValue">0.2</item>
+    <item type="dimen" name="config_allow_fast_rate_ratio">0.6</item>
+    <item type="dimen" name="config_allow_fast_rate_value">55.5</item>
+    <item type="dimen" name="config_bcbc_max_decrease_brt">0.090376</item>
+    <item type="dimen" name="config_bcbc_max_decrease_brt_disable_auto_brt">0.259</item>
+    <item type="dimen" name="config_bcbc_max_increase_brt">0.15</item>
+    <item type="dimen" name="config_bcbc_max_increase_brt_disable_auto_brt">0.05</item>
+    <item type="dimen" name="config_bcbc_threshold_bright_picture">0.6</item>
+    <item type="dimen" name="config_bcbc_threshold_dim_picture">0.4</item>
+    <item type="dimen" name="config_brightening_ratio_for_hdr">2.25</item>
+    <item type="dimen" name="config_grayBrightnessRate">20.0</item>
+    <item type="dimen" name="config_screenshot_scale">0.44444</item>
+    <dimen name="corners_trans_file_type">8.72998dip</dimen>
+    <dimen name="customizer_icon_content_size">56.0dip</dimen>
+    <dimen name="customizer_icon_size">60.0dip</dimen>
+    <dimen name="editor_popup_height">50.899994dip</dimen>
+    <dimen name="editor_popup_select_bg_margin">15.599976dip</dimen>
+    <dimen name="editor_popup_select_elevation">33.0dip</dimen>
+    <dimen name="editor_popup_select_margin">7.299988dip</dimen>
+    <dimen name="editor_popup_select_radius">13.099976dip</dimen>
+    <dimen name="fc_dialog_body_text_size">12.0px</dimen>
+    <dimen name="file_count_textsize">13.299988sp</dimen>
+    <dimen name="file_icon_size">30.25dip</dimen>
+    <dimen name="file_icon_size_small">27.5dip</dimen>
+    <dimen name="file_type_container_height">69.0dip</dimen>
+    <dimen name="global_actions_item_min_width">400.0dip</dimen>
+    <dimen name="guide_popup_horizontal_padding">14.669983dip</dimen>
+    <dimen name="guide_popup_text_size">12.669983sp</dimen>
+    <dimen name="guide_popup_vertical_padding">10.0dip</dimen>
+    <dimen name="height_logo">16.0dip</dimen>
+    <dimen name="help_textsize">13.0sp</dimen>
+    <dimen name="iv_printer_and_throwing_screen_height">40.0dip</dimen>
+    <dimen name="iv_printer_and_throwing_screen_width">56.0dip</dimen>
+    <dimen name="key_btn_height">46.0dip</dimen>
+    <dimen name="key_btn_vertical_gap">8.0dip</dimen>
+    <dimen name="keyboard_padding_left">11.0dip</dimen>
+    <dimen name="keyboard_padding_top">7.0dip</dimen>
+    <dimen name="layout_padding_horizon">29.0dip</dimen>
+    <dimen name="mini_state_content_min_width">38.109985dip</dimen>
+    <dimen name="mini_state_icon_height">13.089996dip</dimen>
+    <dimen name="mini_state_icon_width">13.089996dip</dimen>
+    <dimen name="mini_state_text_size">10.899994dip</dimen>
+    <dimen name="mini_status_bar_bg_height">23.299988dip</dimen>
+    <dimen name="mini_status_bar_bg_padding">8.399994dip</dimen>
+    <dimen name="mishare_device_area_height">142.35999dip</dimen>
+    <dimen name="mishare_device_divider_half">1.8199768dip</dimen>
+    <dimen name="mishare_device_divider_padding_start">18.819977dip</dimen>
+    <dimen name="mishare_device_divider_space">20.359985dip</dimen>
+    <dimen name="mishare_device_divider_start">24.359985dip</dimen>
+    <dimen name="mishare_device_logo_bg_height">16.72998dip</dimen>
+    <dimen name="mishare_device_name_margin_horizon">5.269989dip</dimen>
+    <dimen name="mishare_device_name_margin_top">2.3599854dip</dimen>
+    <dimen name="mishare_device_view_height">142.35999dip</dimen>
+    <dimen name="mishare_scanned_device_size">62.0dip</dimen>
+    <dimen name="miui_drag_image_size">100.0dip</dimen>
+    <item type="dimen" name="miui_freeform_corner_radius">14.0</item>
+    <dimen name="miui_keyboard_height">220.0dip</dimen>
+    <dimen name="miui_multi_window_border_width">0.0dip</dimen>
+    <dimen name="miui_multiwindow_freeform_corner_radius">22.0px</dimen>
+    <dimen name="miui_multiwindow_height_of_drag_bar">42.0dip</dimen>
+    <dimen name="miui_multiwindow_rect_frame_border_width">2.0dip</dimen>
+    <dimen name="miui_multiwindow_splitscreen_corner_radius">22.0px</dimen>
+    <dimen name="miui_multiwindow_width_of_drag_bar">100.0dip</dimen>
+    <dimen name="miui_resolver_alert_dialog_drawable_padding">10.0dip</dimen>
+    <dimen name="miui_resolver_list_item_icon_padding">8.0dip</dimen>
+    <dimen name="miui_split_divider_bar_width">10.0dip</dimen>
+    <dimen name="miui_split_divider_bar_window_offset">13.5dip</dimen>
+    <dimen name="miui_split_divider_bar_window_width">36.0dip</dimen>
+    <dimen name="miui_split_drag_line_height">46.0dip</dimen>
+    <dimen name="miui_split_drag_line_width">5.0dip</dimen>
+    <dimen name="miui_split_hot_width">160.0px</dimen>
+    <dimen name="normal_key_text_size">19.0sp</dimen>
+    <dimen name="open_close_tips_action_height">52.889984dip</dimen>
+    <dimen name="open_close_tips_action_height_pad">45.679993dip</dimen>
+    <dimen name="open_close_tips_action_margin_bottom">10.889984dip</dimen>
+    <dimen name="open_close_tips_action_margin_bottom_pad">12.209991dip</dimen>
+    <dimen name="open_close_tips_action_margin_top">9.529999dip</dimen>
+    <dimen name="open_close_tips_action_margin_top_pad">6.6109924dip</dimen>
+    <dimen name="open_close_tips_action_text_height">27.139984dip</dimen>
+    <dimen name="open_close_tips_action_text_height_pad">21.079987dip</dimen>
+    <dimen name="open_close_tips_action_text_margin_top">12.439972dip</dimen>
+    <dimen name="open_close_tips_action_text_margin_top_pad">11.809998dip</dimen>
+    <dimen name="open_close_tips_action_text_size">20.73999dip</dimen>
+    <dimen name="open_close_tips_action_text_size_pad">15.75dip</dimen>
+    <dimen name="open_close_tips_action_width">345.85938dip</dimen>
+    <dimen name="open_close_tips_action_width_pad">243.78dip</dimen>
+    <dimen name="open_close_tips_height">145.69998dip</dimen>
+    <dimen name="open_close_tips_height_pad">115.92999dip</dimen>
+    <dimen name="open_close_tips_introduction_margin_top">28.0dip</dimen>
+    <dimen name="open_close_tips_introduction_margin_top_pad">18.119995dip</dimen>
+    <dimen name="open_close_tips_introduction_text_size">23.849976dip</dimen>
+    <dimen name="open_close_tips_introduction_text_size_pad">18.119995dip</dimen>
+    <dimen name="open_close_tips_introduction_width">283.625dip</dimen>
+    <dimen name="open_close_tips_introduction_width_pad">215.41998dip</dimen>
+    <item type="dimen" name="open_close_tips_margin_bottom">0.0</item>
+    <item type="dimen" name="open_close_tips_margin_bottom_pad">12.57</item>
+    <dimen name="open_close_tips_padding_bottom">12.879974dip</dimen>
+    <dimen name="open_close_tips_padding_bottom_pad">9.809998dip</dimen>
+    <dimen name="open_close_tips_width">345.85938dip</dimen>
+    <dimen name="open_close_tips_width_pad">263.46875dip</dimen>
+    <dimen name="over_fling_distance">0.5dip</dimen>
+    <dimen name="over_scroll_distance">0.0dip</dimen>
+    <dimen name="padding_trans_view">20.0dip</dimen>
+    <dimen name="phrase_list_edit_phrase_margin_end">7.0dip</dimen>
+    <dimen name="phrase_list_header_height">46.69998dip</dimen>
+    <dimen name="phrase_list_item_height">46.69998dip</dimen>
+    <dimen name="phrase_list_item_last_height">56.69998dip</dimen>
+    <dimen name="phrase_list_max_height">191.0dip</dimen>
+    <dimen name="phrase_list_padding_horizontal">17.299988dip</dimen>
+    <dimen name="phrase_list_padding_vertical">14.299988dip</dimen>
+    <dimen name="phrase_list_padding_vertical_last_bottom">25.299988dip</dimen>
+    <dimen name="phrase_list_radius_size">12.0dip</dimen>
+    <dimen name="phrase_list_width">270.0dip</dimen>
+    <dimen name="prompt_switch_tips_textsize">13.0sp</dimen>
+    <dimen name="resolver_grid_padding_horizontal">14.0dip</dimen>
+    <dimen name="resolver_gridview_height">340.0dip</dimen>
+    <dimen name="resolver_gridview_width">400.0dip</dimen>
+    <dimen name="resolver_screenview_marign_left">24.0dip</dimen>
+    <dimen name="resolver_screenview_marign_right">24.0dip</dimen>
+    <dimen name="resolver_screenview_other_icon_length">38.0dip</dimen>
+    <dimen name="rl_device_marginTop">7.0dip</dimen>
+    <dimen name="scanned_device_name_textsize">11.639984sp</dimen>
+    <dimen name="scanned_device_phone_height">23.0dip</dimen>
+    <dimen name="scanned_device_phone_top">14.179993dip</dimen>
+    <dimen name="scanned_device_phone_width">15.0dip</dimen>
+    <dimen name="screen_on_proximity_sensor_hint_height">582.0dip</dimen>
+    <dimen name="second_dialog_switching_content_margin_top">15.0dip</dimen>
+    <dimen name="second_dialog_switching_image_interval">13.0dip</dimen>
+    <dimen name="second_dialog_switching_image_margin_top">63.69998dip</dimen>
+    <item type="dimen" name="second_dialog_switching_margin_top">50.0</item>
+    <dimen name="second_dialog_switching_title_size">32.0dip</dimen>
+    <dimen name="second_sapce_text_size_15">15.0dip</dimen>
+    <dimen name="second_sapce_text_size_28">28.0dip</dimen>
+    <dimen name="second_space_switch_dialog_text_size">12.0dip</dimen>
+    <dimen name="security_share_textsize">13.0sp</dimen>
+    <dimen name="send_file_to_textsize">18.0sp</dimen>
+    <dimen name="send_to_margin_end">20.699982dip</dimen>
+    <dimen name="send_to_margin_start">29.089996dip</dimen>
+    <dimen name="shift_key_text_size">15.0sp</dimen>
+    <dimen name="single_file_name_textsize">13.299988sp</dimen>
+    <dimen name="size_progress">72.359985dip</dimen>
+    <dimen name="size_scanned_device_with_text">71.69998dip</dimen>
+    <dimen name="size_trans_file_type">40.0dip</dimen>
+    <dimen name="size_wave">87.26999dip</dimen>
+    <item type="dimen" name="small_freeform_exit_view_margin_top">24.36</item>
+    <dimen name="small_window_border_width">1.5dip</dimen>
+    <dimen name="split_drag_bar_height_fold">3.5999756dip</dimen>
+    <dimen name="split_drag_bar_height_pad">4.0dip</dimen>
+    <dimen name="split_drag_bar_radius_fold">3.0299988dip</dimen>
+    <dimen name="split_drag_bar_radius_pad">4.0dip</dimen>
+    <dimen name="split_drag_bar_top_margin">8.0dip</dimen>
+    <dimen name="split_drag_bar_top_margin_vertical">10.0dip</dimen>
+    <dimen name="split_drag_bar_width_fold">60.0dip</dimen>
+    <dimen name="split_drag_bar_width_pad">52.0dip</dimen>
+    <dimen name="standard_state_icon_height">15.269989dip</dimen>
+    <dimen name="standard_state_icon_width">15.269989dip</dimen>
+    <dimen name="standard_state_text_size">13.799988dip</dimen>
+    <dimen name="state_icon_margin_end">3.0dip</dimen>
+    <dimen name="stroke_device_inner">1.8199768dip</dimen>
+    <dimen name="stylus_pen_layout_height">142.19998dip</dimen>
+    <dimen name="stylus_pen_layout_width">240.0dip</dimen>
+    <dimen name="stylus_pen_text_height">24.0dip</dimen>
+    <dimen name="stylus_pen_text_margin_top">73.78dip</dimen>
+    <dimen name="stylus_pencil_height">10.369995dip</dimen>
+    <dimen name="stylus_pencil_margin_top">45.329987dip</dimen>
+    <dimen name="stylus_pencil_width">143.10999dip</dimen>
+    <dimen name="text_action_next_height">14.0dip</dimen>
+    <dimen name="text_action_next_width">15.669983dip</dimen>
+    <dimen name="text_action_popup_off_screen">11.329987dip</dimen>
+    <dimen name="text_action_popup_padding">18.669983dip</dimen>
+    <dimen name="text_action_popup_padding_small">13.299988dip</dimen>
+    <dimen name="text_action_previous_height">14.0dip</dimen>
+    <dimen name="text_action_previous_width">14.0dip</dimen>
+    <dimen name="text_action_translation_max_height">190.0dip</dimen>
+    <dimen name="text_action_translation_min_height">82.0dip</dimen>
+    <dimen name="text_action_translation_padding_bottom">18.0dip</dimen>
+    <dimen name="text_action_translation_padding_offset">1.5999756dip</dimen>
+    <dimen name="text_classfier_app_icon_width">18.0dip</dimen>
+    <dimen name="text_classfier_text_margin_left">8.0dip</dimen>
+    <dimen name="text_edit_action_popup_text_size">13.0sp</dimen>
+    <dimen name="text_handle_min_size">40.0dip</dimen>
+    <dimen name="text_select_border_width">0.30000007dip</dimen>
+    <dimen name="time_floating_window_padding">2.0dip</dimen>
+    <dimen name="time_floating_window_text_size">14.0dip</dimen>
+    <dimen name="time_floating_window_width">70.0dip</dimen>
+    <dimen name="triangle_arrow_size">17.0dip</dimen>
+    <dimen name="volume_panel_top">163.0dip</dimen>
+    <dimen name="window_background_blur_radius">15.0dip</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.smooth.SmoothContainerDrawable android:radius="@dimen/qs_control_brightness_corner_radius"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <child>
+        <shape>
+            <corners android:radius="@dimen/qs_control_brightness_corner_radius" />
+            <size android:height="@dimen/qs_control_brightness_dialog_height" />
+            <solid android:color="@color/qs_brightness_mirror_background_color" />
+        </shape>
+    </child>
+</miuix.smooth.SmoothContainerDrawable>

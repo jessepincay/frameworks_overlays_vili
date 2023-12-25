@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="open_close_tips_action_height_pad">61.03dip</dimen>
+    <dimen name="open_close_tips_action_margin_bottom_pad">16.309998dip</dimen>
+    <dimen name="open_close_tips_action_margin_top_pad">8.238983dip</dimen>
+    <dimen name="open_close_tips_action_text_height_pad">27.859985dip</dimen>
+    <dimen name="open_close_tips_action_text_margin_top_pad">15.789978dip</dimen>
+    <dimen name="open_close_tips_action_text_size_pad">21.039978dip</dimen>
+    <dimen name="open_close_tips_action_width_pad">325.6875dip</dimen>
+    <dimen name="open_close_tips_height_pad">154.88dip</dimen>
+    <dimen name="open_close_tips_introduction_margin_top_pad">24.199982dip</dimen>
+    <dimen name="open_close_tips_introduction_text_size_pad">24.199982dip</dimen>
+    <dimen name="open_close_tips_introduction_width_pad">287.79688dip</dimen>
+    <item type="dimen" name="open_close_tips_margin_bottom_pad">14.44</item>
+    <dimen name="open_close_tips_padding_bottom_pad">13.089996dip</dimen>
+    <dimen name="open_close_tips_width_pad">352.0dip</dimen>
+</resources>

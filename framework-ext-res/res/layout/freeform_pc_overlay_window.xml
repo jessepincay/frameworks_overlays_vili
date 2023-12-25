@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.server.wm.MiuiFreeFormPcOverlayView android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.server.wm.MiuiFreeFormPcRoundRectView android:id="@id/freeform_pc_border" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <View android:id="@id/freeform_pc_content" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ImageView android:layout_gravity="center" android:id="@id/freeform_pc_icon" android:background="@drawable/freeform_overlay_image_background" android:layout_width="200.0px" android:layout_height="200.0px" android:scaleType="fitCenter" />
+</com.android.server.wm.MiuiFreeFormPcOverlayView>

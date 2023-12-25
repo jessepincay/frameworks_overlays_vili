@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/root_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/action_bar_layout" android:layout_width="fill_parent" android:layout_height="54.22dip">
+        <RelativeLayout android:id="@id/action_bar_back" android:layout_width="70.0dip" android:layout_height="fill_parent" android:contentDescription="@string/accessibility_back">
+            <ImageView android:id="@id/action_bar_back_imageview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/choose_clock_action_bar_left_padding" />
+        </RelativeLayout>
+        <TextView android:textAppearance="@style/style_choose_clock_panel_title" android:textSize="17.779999sp" android:textColor="@color/choose_keyguard_clock_panel_text_color" android:id="@id/action_bar_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/choose_clock_panel_title" android:layout_centerInParent="true" android:fontFamily="mipro-medium" />
+    </RelativeLayout>
+    <FrameLayout android:id="@id/unsupport_hint_layout" android:layout_width="fill_parent" android:layout_height="@dimen/choose_keyguard_clock_third_layout_height" android:layout_centerInParent="true">
+        <TextView android:textSize="17.0sp" android:textColor="@color/clock_white" android:gravity="center" android:layout_gravity="center" android:id="@id/hint_tips" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/choose_clock_third_theme_hint_text" android:fontFamily="mipro-medium" android:paddingStart="@dimen/choose_clock_left_margin" android:paddingEnd="@dimen/choose_clock_left_margin" />
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/choose_clock_content_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/choose_clock_rootview_top_margin" android:layout_below="@id/action_bar_layout">
+        <miuix.recyclerview.widget.RecyclerView android:id="@id/clock_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/choose_clock_list_horizontal_margin" android:layout_marginEnd="@dimen/choose_clock_list_horizontal_margin" />
+        <FrameLayout android:gravity="center_vertical" android:id="@id/lunar_calendar_layout" android:layout_width="fill_parent" android:layout_height="@dimen/choose_keyguard_clock_lunar_height" android:layout_marginTop="31.109985dip" android:paddingStart="@dimen/choose_clock_left_margin" android:paddingEnd="@dimen/choose_clock_left_margin">
+            <TextView android:textAppearance="@style/style_select_color_title" android:textColor="@color/choose_keyguard_clock_panel_text_color" android:gravity="start|center" android:layout_gravity="center_vertical" android:id="@id/lunar_calendar_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pref_show_lunar_calendar_title" android:fontFamily="mipro-medium" android:paddingEnd="90.0dip" />
+            <miuix.slidingwidget.widget.SlidingButton android:layout_gravity="end|center" android:id="@id/lunar_calendar_button" android:layout_width="@dimen/choose_keyguard_clock_slide_button_width" android:layout_height="@dimen/choose_keyguard_clock_slide_button_height" />
+        </FrameLayout>
+        <FrameLayout android:gravity="center_vertical" android:id="@id/owner_info_layout" android:layout_width="fill_parent" android:layout_height="@dimen/choose_keyguard_clock_lunar_height" android:paddingStart="@dimen/choose_clock_left_margin" android:paddingEnd="@dimen/choose_clock_left_margin">
+            <TextView android:textAppearance="@style/style_select_color_title" android:textColor="@color/choose_keyguard_clock_panel_text_color" android:gravity="start|center" android:layout_gravity="start|center" android:id="@id/owner_info_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/lock_screen_signature_title" android:fontFamily="mipro-medium" android:paddingEnd="90.0dip" />
+            <ImageView android:layout_gravity="end|center" android:id="@id/owner_info_restricted_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_info" android:contentDescription="@null" android:layout_marginEnd="@dimen/choose_clock_left_margin" />
+            <ImageView android:layout_gravity="end|center" android:id="@id/owner_info_arrow_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/miuix_appcompat_arrow_right" android:contentDescription="@null" />
+        </FrameLayout>
+    </LinearLayout>
+</RelativeLayout>

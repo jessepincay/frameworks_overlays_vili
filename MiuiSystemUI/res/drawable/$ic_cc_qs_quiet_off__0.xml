@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="534.0dip" android:width="534.0dip" android:viewportWidth="534.0" android:viewportHeight="534.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:name="_R_G">
+        <group android:name="_R_G_L_5_G" android:pivotX="-0.004" android:pivotY="0.006" android:rotation="0.0" android:translateX="267.004" android:translateY="266.994">
+            <path android:name="_R_G_L_5_G_D_0_P_0" android:fillColor="#ffffffff" android:pathData=" M-11.29 -95.27 C-6.1,-96.17 -3.01,-90.02 -5.8,-85.55 C-13.48,-73.16 -17.92,-58.55 -17.92,-42.89 C-17.92,1.66 18.02,37.75 62.36,37.75 C69.26,37.75 75.91,36.88 82.31,35.26 C87.41,33.94 92.36,38.74 89.96,43.42 C74.05,74.29 41.99,95.38 5,95.38 C-47.78,95.38 -90.58,52.39 -90.58,-0.65 C-90.58,-48.08 -56.32,-87.5 -11.29,-95.27c " android:trimPathStart="0.0" android:trimPathEnd="1.0" android:trimPathOffset="0.0" android:fillAlpha="1.0" android:fillType="nonZero" />
+        </group>
+        <group android:name="_R_G_L_4_G" android:pivotX="241.527" android:pivotY="241.652" android:scaleX="0.86079" android:scaleY="0.86079" android:translateX="30.473" android:translateY="24.848">
+            <path android:name="_R_G_L_4_G_D_0_P_0" android:pathData=" M241.53 130.31 C303.02,130.31 352.87,180.16 352.87,241.65 C352.87,303.14 303.02,352.99 241.53,352.99 C180.04,352.99 130.19,303.14 130.19,241.65 C130.19,180.16 180.04,130.31 241.53,130.31c " android:strokeColor="#ffffffff" android:strokeWidth="20.0" android:trimPathStart="1.0" android:trimPathEnd="1.0" android:trimPathOffset="0.15" android:strokeLineCap="round" android:strokeLineJoin="round" android:strokeAlpha="1.0" />
+        </group>
+        <group android:name="_R_G_L_3_G" android:pivotX="348.25" android:pivotY="205.0" android:scaleX="0.55" android:scaleY="0.55" android:translateX="0.076" android:translateY="-0.011">
+            <path android:name="_R_G_L_3_G_D_0_P_0" android:pathData=" M348.25 205 C348.25,205 387.5,204.75 387.5,204.75 " android:strokeColor="#ffffffff" android:strokeWidth="20.0" android:trimPathStart="0.0" android:trimPathEnd="0.0" android:trimPathOffset="0.0" android:strokeLineCap="round" android:strokeLineJoin="round" android:strokeAlpha="1.0" />
+        </group>
+        <group android:name="_R_G_L_2_G" android:pivotX="348.394" android:pivotY="204.808" android:scaleX="0.55" android:scaleY="0.55" android:translateX="0.011" android:translateY="0.076">
+            <path android:name="_R_G_L_2_G_D_0_P_0" android:pathData=" M348.39 204.81 C348.39,204.81 348.64,244.06 348.64,244.06 " android:strokeColor="#ffffffff" android:strokeWidth="20.0" android:trimPathStart="0.0" android:trimPathEnd="0.0" android:trimPathOffset="0.0" android:strokeLineCap="round" android:strokeLineJoin="round" android:strokeAlpha="1.0" />
+        </group>
+        <group android:name="_R_G_L_1_G" android:pivotX="348.586" android:pivotY="204.953" android:scaleX="0.55" android:scaleY="0.55" android:translateX="-0.076" android:translateY="0.01">
+            <path android:name="_R_G_L_1_G_D_0_P_0" android:pathData=" M348.59 204.95 C348.59,204.95 309.34,205.2 309.34,205.2 " android:strokeColor="#ffffffff" android:strokeWidth="20.0" android:trimPathStart="0.0" android:trimPathEnd="0.0" android:trimPathOffset="0.0" android:strokeLineCap="round" android:strokeLineJoin="round" android:strokeAlpha="1.0" />
+        </group>
+        <group android:name="_R_G_L_0_G" android:pivotX="348.442" android:pivotY="205.144" android:scaleX="0.55" android:scaleY="0.55" android:translateX="-0.011" android:translateY="-0.075">
+            <path android:name="_R_G_L_0_G_D_0_P_0" android:pathData=" M348.44 205.14 C348.44,205.14 348.19,165.89 348.19,165.89 " android:strokeColor="#ffffffff" android:strokeWidth="20.0" android:trimPathStart="0.0" android:trimPathEnd="0.0" android:trimPathOffset="0.0" android:strokeLineCap="round" android:strokeLineJoin="round" android:strokeAlpha="1.0" />
+        </group>
+    </group>
+    <group android:name="time_group" />
+</vector>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="78.0dip" android:width="170.0dip" android:viewportWidth="170.0" android:viewportHeight="78.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/qs_control_customizer_tiles_save_bg_color" android:pathData="M170,39L170,39A39,39 0,0 1,131 78L39,78A39,39 0,0 1,0 39L0,39A39,39 0,0 1,39 0L131,0A39,39 0,0 1,170 39z" android:strokeAlpha="0.8" android:fillAlpha="0.8" />
+</vector>

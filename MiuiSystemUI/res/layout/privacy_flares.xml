@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.privacy.PrivacyDotWindowView android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="center" android:id="@id/sec_capsule_parent" android:background="@drawable/sec_flares_oval_bg" android:layout_width="@dimen/sec_flares_capsule_w" android:layout_height="@dimen/sec_flares_capsule_h">
+        <ImageView android:id="@id/sec_capsule_content" android:background="@drawable/sec_flares_center_loc" android:layout_width="@dimen/sec_flares_capsule_content_l_w" android:layout_height="@dimen/sec_flares_capsule_content_l_h" android:scaleType="center" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</com.android.systemui.statusbar.privacy.PrivacyDotWindowView>

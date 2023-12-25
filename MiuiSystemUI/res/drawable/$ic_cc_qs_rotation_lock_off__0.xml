@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="lockscreen_lock" android:height="178.0dip" android:width="178.0dip" android:viewportWidth="178.0" android:viewportHeight="178.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:name="group_3" android:translateX="-3.0" android:translateY="-3.0">
+        <group android:name="group_2" android:pivotX="85.0" android:pivotY="90.0" android:rotation="1.0" android:translateY="-3.0">
+            <path android:name="handler" android:fillColor="@color/cc_qs_tile_icon_color" android:pathData="M 83 97.7 L 83 85 C 83 80 87 76 92 76 C 97 76 101 80 101 85 L 101 87.9 C 101 88.7 100 89.6 99 89.6 C 97.6 89.6 97 88.7 97 88 L 97 85.1 C 97 82.3 94.8 80.1 92 80.1 C 89.2 80.1 87 82.3 87 85.1 L 87 97.8 L 83 97.8 Z" android:strokeWidth="1.0" android:fillType="evenOdd" />
+        </group>
+        <group android:name="group_1" android:translateY="2.0">
+            <path android:name="body" android:fillColor="@color/cc_qs_tile_icon_color" android:pathData="M 82 87 L 102 87 C 103.7 87 105 88.3 105 90 L 105 103 C 105 104.7 103.7 106 102 106 L 82 106 C 80.3 106 79 104.7 79 103 L 79 90 C 79 88.3 80.3 87 82 87 Z" android:strokeWidth="1.0" />
+        </group>
+    </group>
+    <group android:name="group" android:pivotX="91.0" android:pivotY="92.0" android:rotation="-8.672379" android:translateX="-2.9574006" android:translateY="-3.067316">
+        <path android:name="ring" android:fillColor="@color/cc_qs_tile_icon_color" android:pathData="M 98 56.7 C 89.8 55.1 81.4 56.3 74 60.3 C 66.7 64.2 60.9 70.6 57.7 78.3 C 54.5 86 54.1 94.6 56.5 102.5 C 58.9 110.5 64 117.4 70.9 122 C 77.8 126.6 86.1 128.7 94.4 127.9 C 102.7 127.1 110.4 123.4 116.3 117.5 C 117.5 116.3 117.5 114.3 116.3 113.1 C 115.1 111.9 113.1 111.9 111.9 113.1 C 107 118 100.6 121 93.7 121.7 C 86.8 122.4 79.9 120.7 74.2 116.8 C 68.5 113 64.2 107.3 62.2 100.7 C 60.2 94.1 60.5 87 63.2 80.6 C 65.8 74.2 70.6 69 76.7 65.7 C 82.8 62.4 89.8 61.4 96.6 62.8 C 103.4 64.1 109.5 67.8 113.8 73.1 C 117.2 77.2 119.4 82.1 120.2 87.3 L 117 87.3 C 115.1 87.3 113.9 89.4 114.8 91.1 L 121.3 102.3 C 122.3 104 124.7 104 125.6 102.3 L 132.1 91.1 C 133.1 89.4 131.9 87.3 129.9 87.3 L 126.6 87.3 C 125.7 80.7 123 74.4 118.7 69.2 C 113.5 62.7 106.2 58.3 98 56.7 Z" android:strokeWidth="1.0" android:fillType="evenOdd" />
+    </group>
+</vector>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="33" android:compileSdkVersionCodename="13" package="android.miui" platformBuildVersionCode="33" platformBuildVersionName="13">
+    <permission android:name="com.android.SystemUI.permission.TIGGER_TOGGLE" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.android.systemui.permission.NOTIFICATION" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM"/>
+    <permission android:description="@string/permdesc_manageLocationPolicy" android:label="@string/permlab_manageLocationPolicy" android:name="android.permission.MANAGE_LOCATION_POLICY" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="android.permission.LOCATION_POLICY_INTERNAL" android:permissionGroup="android.permission-group.LOCATION" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.xiaomi.permission.ACCESS_WIFI" android:protectionLevel="signature"/>
+    <permission android:name="com.miui.permission.MANAGE_SMS_INTERCEPT" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="miui.os.permisson.INIT_MIUI_ENVIRONMENT" android:protectionLevel="signature"/>&gt; <permission android:name="com.miui.permission.MANAGE_BOOT_TIME" android:protectionLevel="signatureOrSystem"/>&gt; <permission android:name="com.miui.permission.FIREWALL" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.miui.enterprise.permission.ACCESS_ENTERPRISE_API" android:protectionLevel="normal"/>
+    <permission android:name="com.miui.enterprise.permission.ACTIVE_ENTERPRISE_MODE" android:protectionLevel="signatureOrSystem"/>
+    <protected-broadcast android:name="com.miui.enterprise.ACTION_CERT_UPDATE"/>
+    <permission android:name="miui.car.permission.MI_CARLINK_STATUS" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="miui.car.permission.MI_CARLINK_ROTATION_STATUS" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="miui.car.permission.MI_CARLINK_THIRD_APP_PROCESS_STATUS" android:protectionLevel="signatureOrSystem"/>
+    <protected-broadcast android:name="miui.car.MiuiCarManager.MI_CARLINK_STATUS_CHANGED"/>
+    <protected-broadcast android:name="miui.car.MiuiCarManager.MI_CARLINK_ROTATION_CHANGED"/>
+    <protected-broadcast android:name="miui.car.MiuiCarManager.MI_CARLINK_THIRD_APP_PROCESS_DIED"/>
+    <permission android:name="com.miui.permission.VIDEO_INFORMATION" android:protectionLevel="normal"/>
+    <permission android:name="com.miui.permission.UPDATE_RESTRICT_DATA" android:protectionLevel="signatureOrSystem"/>
+    <protected-broadcast android:name="com.miui.action.UPDATE_RESTRICT_DATA"/>
+    <permission android:description="@string/perm_send_push_dspt" android:label="@string/perm_send_push_lab" android:name="com.xiaomi.permission.SEND_PUSH" android:protectionLevel="signature"/>
+    <permission android:name="com.miui.permission.HANG_UP_CHANGED" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.xiaomi.mirror.permission.REGISTER_MIRROR_DELEGATE" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="miui.permission.READ_STEPS" android:protectionLevel="normal"/>
+    <permission android:name="miui.permission.WRITE_STEPS" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="miui.permission.READ_STEPS"/>
+    <uses-permission android:name="miui.permission.WRITE_STEPS"/>
+    <permission android:name="com.miui.permission.FINGERPRINT_FOD_HEARTRATE" android:protectionLevel="signature"/>
+    <permission android:description="@string/permdesc_useFingerprint" android:label="@string/permlab_useFingerprint" android:name="android.permission.USE_FINGERPRINT" android:permissionGroup="android.permission-group.SENSORS" android:protectionLevel="normal"/>
+    <permission android:description="@string/permdesc_useBiometric" android:label="@string/permlab_useBiometric" android:name="android.permission.USE_BIOMETRIC" android:permissionGroup="android.permission-group.SENSORS" android:protectionLevel="normal"/>
+    <permission android:name="com.miui.permission.CONTROL_PC_MODE" android:protectionLevel="privileged|signature"/>
+    <permission android:name="com.miui.permission.CONTROL_PC_LAUNCHER" android:protectionLevel="signature"/>
+    <protected-broadcast android:name="miui.intent.action.PC_MODE_ENABLED"/>
+    <protected-broadcast android:name="miui.intent.action.PC_MODE_DISABLED"/>
+    <protected-broadcast android:name="miui.intent.action.PC_MODE_ENTER"/>
+    <protected-broadcast android:name="miui.intent.action.PC_MODE_EXIT"/>
+    <uses-permission android:name="miui.net.wifi.permission.ACCESS_WIFI_DIGEST_INFO"/>
+    <protected-broadcast android:name="miui.intent.action.DUMP_KLO_BUGREPORT"/>
+    <protected-broadcast android:name="miui.intent.action.MIUI_INIT_COMPLETED"/>
+    <protected-broadcast android:name="miui.intent.action.SWITCH_ON_MIUILOGS"/>
+    <protected-broadcast android:name="miui.intent.action.SWITCH_OFF_MIUILOGS"/>
+    <protected-broadcast android:name="miui.intent.action.REVERT_MIUILOG_SWITCHES"/>
+    <protected-broadcast android:name="miui.intent.action.INPUT_METHOD_VISIBLE_HEIGHT_CHANGED"/>
+    <protected-broadcast android:name="miui.intent.action.SQUEEZED_PROCESS_CAUSING_JANK"/>
+    <protected-broadcast android:name="android.accounts.LOGIN_ACCOUNTS_CHANGED_SYS"/>
+    <protected-broadcast android:name="action.fakegps.stop"/>
+    <protected-broadcast android:name="miui.intent.action.HANG_UP_CHANGED"/>
+    <protected-broadcast android:name="miui.intent.action.ACTION_QUICK_CHARGE_TYPE"/>
+    <protected-broadcast android:name="miui.intent.action.ACTION_SOC_DECIMAL"/>
+    <protected-broadcast android:name="miui.intent.action.ACTION_SHUTDOWN_DELAY"/>
+    <protected-broadcast android:name="miui.intent.action.ACTION_WIRELESS_TX_TYPE"/>
+    <protected-broadcast android:name="miui.intent.action.ACTION_WIRELESS_CHARGING"/>
+    <protected-broadcast android:name="miui.intent.action.ACTION_WIRELESS_FW_UPDATE"/>
+    <protected-broadcast android:name="miui.intent.action.ACTION_PEN_REVERSE_CHARGE_STATE"/>
+    <protected-broadcast android:name="miui.intent.action.ACTION_TYPE_C_HIGH_TEMP"/>
+    <protected-broadcast android:name="miui.intent.action.ADJUST_VOLTAGE"/>
+    <protected-broadcast android:name="miui.intent.action.RESTORE_BRIGHTNESS"/>
+    <protected-broadcast android:name="com.xiaomi.bsp.gps.nps.GetEvent"/>
+    <protected-broadcast android:name="com.xiaomi.bsp.gps.nps.callerName"/>
+    <protected-broadcast android:name="miui.intent.action.VOLUME_BOOST"/>
+    <protected-broadcast android:name="miui.intent.action.MIUI_CLD_PROCESSED_DONE"/>
+    <protected-broadcast android:name="miui.intent.action.FBO_PROCESSED_DONE"/>
+    <uses-permission android:name="com.miui.analytics.onetrack.TRACK_EVENT"/>
+    <uses-permission android:name="com.miui.zman.permission.SECURITY_SHARE"/>
+    <application android:allowClearUserData="false" android:extractNativeLibs="true" android:hasCode="false" android:killAfterRestore="false" android:persistent="true" android:process="system">
+        <meta-data android:name="com.miui.sdk.module" android:value="true"/>
+        <meta-data android:name="com.miui.sdk.critical" android:value="true"/>
+        <meta-data android:name="com.miui.sdk.manifest" android:resource="@xml/miui_manifest"/>
+        <activity android:excludeFromRecents="true" android:label="@android:string/aerr_report" android:name="miui.accounts.MiuiChooseAccountTypeActivity" android:process=":ui"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="miui.content.pm.PackageDeleteConfirmActivity" android:process=":ui" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.miui.action.PACKAGE_DELETE_CONFIRM"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="density|fontScale|keyboard|keyboardHidden|layoutDirection|locale|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:excludeFromRecents="true" android:exported="true" android:name="com.miui.mishare.app.activity.MiPrintControlActivity" android:process=":ui" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="com.miui.mishare.action.PRINT_CONTROL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:host="*" android:mimeType="*/*" android:scheme="content"/>
+            </intent-filter>
+        </activity>
+        <provider android:authorities="com.miui.providers.steps" android:enabled="true" android:exported="true" android:multiprocess="false" android:name="miui.stepcounter.StepProvider" android:readPermission="miui.permission.READ_STEPS" android:writePermission="miui.permission.WRITE_STEPS"/>
+        <provider android:authorities="com.miui.core.telocation" android:exported="true" android:name="miui.telephony.phonenumber.TelocationProvider"/>
+    </application>
+</manifest>

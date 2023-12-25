@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.server.wm.MiuiSmallFreeformExitView android:id="@id/small_freeform_exit_view" android:background="@drawable/small_freeform_exit_rect" android:layout_width="322.0px" android:layout_height="178.0px" android:layout_margin="30.0px">
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:layout_width="39.409973px" android:layout_height="41.369995px" android:layout_marginRight="18.209991px" android:src="@drawable/small_freeform_exit_sign" />
+                <TextView android:textSize="30.0px" android:textColor="#ffffffff" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/small_freeform_exit_tip" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.android.server.wm.MiuiSmallFreeformExitView>
+</FrameLayout>

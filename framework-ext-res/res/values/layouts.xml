@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="android_always_use_checkbox">@android:layout/always_use_checkbox</item>
+    <item type="layout" name="android_app_permission_item_old">@android:layout/app_permission_item_old</item>
+    <item type="layout" name="android_preference_list_fragment">@android:layout/preference_list_content_material</item>
+    <item type="layout" name="android_select_dialog_singlechoice_holo">@android:layout/select_dialog_multichoice_holo</item>
+    <item type="layout" name="android_simple_list_item_2_single_choice">@android:layout/simple_account_item</item>
+</resources>

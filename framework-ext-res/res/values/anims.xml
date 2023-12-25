@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="anim" name="android_grow_fade_in_from_bottom">@android:anim/ic_signal_wifi_transient_animation_1</item>
+    <item type="anim" name="android_push_down_in">@android:anim/rotation_animation_jump_exit</item>
+    <item type="anim" name="android_push_down_out">@android:anim/screen_rotate_0_enter</item>
+    <item type="anim" name="android_push_up_in">@android:anim/screen_rotate_180_enter</item>
+    <item type="anim" name="android_push_up_out">@android:anim/screen_rotate_180_exit</item>
+    <item type="anim" name="android_shrink_fade_out_from_bottom">@android:anim/swipe_window_exit</item>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="2.0px" />
+    <size android:height="@dimen/split_drag_bar_height_fold" android:width="@dimen/split_drag_bar_width_fold" />
+    <solid android:color="#339b9b9b" />
+</shape>

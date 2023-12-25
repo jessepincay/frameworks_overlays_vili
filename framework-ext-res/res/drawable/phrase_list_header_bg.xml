@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/phrase_list_header_bg_color" />
+    <size android:height="@dimen/phrase_list_header_height" />
+    <padding android:left="@dimen/phrase_list_padding_horizontal" />
+</shape>

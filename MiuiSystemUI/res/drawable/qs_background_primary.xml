@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.smooth.SmoothContainerDrawable android:radius="@dimen/qs_control_corner_general_radius"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <child>
+        <shape>
+            <solid android:color="@color/qs_panel_background_color" />
+        </shape>
+    </child>
+</miuix.smooth.SmoothContainerDrawable>

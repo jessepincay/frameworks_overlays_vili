@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/bg_container" android:background="#4d000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0">
+        <RelativeLayout android:id="@id/pen_layout" android:visibility="gone" android:layout_width="@dimen/stylus_pen_layout_width" android:layout_height="@dimen/stylus_pen_layout_height" android:layout_centerInParent="true">
+            <ImageView android:id="@id/pencil" android:layout_width="@dimen/stylus_pencil_width" android:layout_height="@dimen/stylus_pencil_height" android:layout_marginTop="@dimen/stylus_pencil_margin_top" android:src="@drawable/stylus_ic_pencil" android:layout_centerHorizontal="true" />
+            <TextView android:textAppearance="@style/stylus_pen_mask_stylus" android:gravity="center" android:id="@id/word" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/stylus_pen_text_margin_top" android:text="@string/stylus_pen_mask_text" android:layout_centerHorizontal="true" android:lineSpacingExtra="4.0sp" android:alpha="0.8" android:fontFamily="mipro-medium" />
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

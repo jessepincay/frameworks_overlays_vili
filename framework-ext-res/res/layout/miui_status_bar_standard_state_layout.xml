@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@id/app_info" android:background="@color/miui_state_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@android:id/icon" style="@style/MiuiStatusBarState.ImageView" />
+        <TextView android:id="@android:id/title" style="@style/MiuiStatusBarState.Text" />
+    </LinearLayout>
+    <LinearLayout android:id="@android:id/empty" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <LinearLayout android:layout_gravity="center" android:id="@android:id/content" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@android:id/icon1" style="@style/MiuiStatusBarState.ImageView" />
+        <ImageView android:id="@android:id/icon2" style="@style/MiuiStatusBarState.ImageView" />
+        <TextView android:id="@android:id/text1" style="@style/MiuiStatusBarState.Text" />
+        <Chronometer android:id="@id/chronometer" style="@style/MiuiStatusBarState.ImageView" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="android_btn_keyboard_key_fulltrans">@android:drawable/btn_keyboard_key_dark_normal_holo</item>
+    <item type="drawable" name="android_code_lock_top">@android:drawable/cling_button_pressed</item>
+    <item type="drawable" name="android_expander_ic_maximized">@android:drawable/expander_group</item>
+    <item type="drawable" name="android_expander_ic_minimized">@android:drawable/expander_group_holo_dark</item>
+    <item type="drawable" name="android_ic_menu_archive">@android:drawable/ic_menu_archive</item>
+    <item type="drawable" name="android_ic_menu_cc">@android:drawable/ic_menu_cc</item>
+    <item type="drawable" name="android_ic_menu_goto">@android:drawable/ic_menu_goto</item>
+    <item type="drawable" name="android_ic_print">@android:drawable/ic_print</item>
+    <item type="drawable" name="android_ic_print_error">@android:drawable/ic_print_error</item>
+    <item type="drawable" name="android_ic_text_dot">@android:drawable/ic_test_badge_experiment</item>
+    <item type="drawable" name="android_list_selector_disabled_holo_dark">@android:drawable/maps_google_logo</item>
+    <item type="drawable" name="android_list_selector_pressed_holo_dark">@android:drawable/menu_hardkey_panel_holo_light</item>
+    <item type="drawable" name="android_stat_sys_gps_on">@android:drawable/stat_sys_battery_charge_anim28</item>
+    <item type="drawable" name="android_sym_app_on_sd_unavailable_icon">@android:drawable/switch_inner_holo_light</item>
+    <item type="drawable" name="ic_contact_picture">@android:drawable/ic_commit_search_api_material</item>
+</resources>

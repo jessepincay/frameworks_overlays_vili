@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:paddingLeft="1.0px" android:paddingRight="1.0px" android:layout_width="fill_parent" android:layout_height="fill_parent" android:nestedScrollingEnabled="true" android:forceDarkAllowed="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:id="@id/content_preview_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <LinearLayout android:id="@id/profile_button" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" android:focusable="true" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="48.0dip" android:layout_marginTop="4.0dip" android:paddingStart="8.0dip" android:paddingEnd="8.0dip" android:layout_marginEnd="4.0dip" style="?android:borderlessButtonStyle">
+            <ImageView android:layout_gravity="start|center" android:id="@id/icon" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginTop="12.0dip" android:layout_marginBottom="12.0dip" android:scaleType="fitCenter" android:layout_marginStart="4.0dip" android:layout_marginEnd="16.0dip" />
+            <TextView android:textAppearance="?android:textAppearanceButton" android:textColor="@color/resolver_text_dark" android:ellipsize="marquee" android:layout_gravity="start|center" android:id="@android:id/text1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:minLines="1" android:layout_marginEnd="16.0dip" />
+        </LinearLayout>
+        <com.miui.mishare.app.view.MiShareTransmissionView android:id="@id/mishare_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <include android:id="@id/resolver_recommend_offical_layout" android:visibility="gone" layout="@layout/resolver_offical_item" />
+        <miui.view.ScreenView android:id="@id/screen_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <CheckBox android:id="@id/always_option" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.5dip" android:text="@string/alwaysUsePrompt" android:layout_marginStart="31.0dip" style="@style/MiuiWidgetCompoundButtonCheckBoxDialog" />
+        <LinearLayout android:orientation="horizontal" android:id="@android:id/buttonPanel" android:layout_width="wrap_content" android:layout_height="1.0px">
+            <View android:id="@android:id/button_bar" android:layout_width="1.0px" android:layout_height="1.0px" />
+            <View android:id="@android:id/button7" android:layout_width="1.0px" android:layout_height="1.0px" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

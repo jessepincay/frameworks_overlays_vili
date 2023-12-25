@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="16.0dip" android:paddingEnd="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="14.0sp" android:textColor="@color/tips_text_color" android:id="@id/multiwindow_bubble_text1" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:textSize="14.0sp" android:textColor="@color/tips_text_color" android:id="@id/multiwindow_bubble_text2" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <View android:background="@color/miui_color_divider_horizontal_dark" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginTop="8.0dip" />
+    <LinearLayout android:gravity="end" android:orientation="horizontal" android:id="@id/multiwindow_bubble_bottom" android:layout_width="fill_parent" android:layout_height="32.0dip">
+        <TextView android:textSize="14.0sp" android:textColor="@color/tips_text_color" android:gravity="center" android:id="@id/multiwindow_bubble_btn" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="+++++++" android:paddingStart="10.0dip" android:paddingEnd="10.0dip" />
+    </LinearLayout>
+</LinearLayout>

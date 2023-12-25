@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fsg_demo_btn_paddinglr">49.70999dip</dimen>
+    <dimen name="fsg_demo_paddingbottom">44.099976dip</dimen>
+    <dimen name="fsg_demo_paddinglr">48.879974dip</dimen>
+    <dimen name="fsgesture_demoinro_lineheight">78.94dip</dimen>
+    <dimen name="fsgesture_demoinro_linemargin">15.039978dip</dimen>
+    <dimen name="fsgesture_demoinro_normal_textsize">18.789978sp</dimen>
+    <dimen name="fsgesture_demoinro_titlemargintop">101.5dip</dimen>
+    <dimen name="fsgesture_demoinro_titletextsize">33.139984sp</dimen>
+    <dimen name="fsgesture_final_icon_margin_top">232.0dip</dimen>
+    <dimen name="fsgesture_final_summary_margin_top">5.8399963dip</dimen>
+    <dimen name="fsgesture_final_summary_size">14.5sp</dimen>
+    <dimen name="fsgesture_final_title_size">31.069977sp</dimen>
+    <dimen name="fsgesture_ready_summary_margin_bottom">20.709991dip</dimen>
+    <dimen name="fsgesture_ready_summary_margin_top">3.1099854dip</dimen>
+    <dimen name="fsgesture_ready_title_margin_top">27.959991dip</dimen>
+    <dimen name="fsgesture_ready_title_size">15.029999sp</dimen>
+    <dimen name="fsgesture_skip_margin_right">14.5dip</dimen>
+    <dimen name="fsgesture_skip_margin_top">10.359985dip</dimen>
+    <dimen name="fsgesture_skip_size">14.5sp</dimen>
+    <dimen name="fsgesture_step_text_size">18.639984sp</dimen>
+    <dimen name="gesture_title_view_margin_left_right_radius">14.5sp</dimen>
+    <dimen name="gesture_title_view_margin_top">41.419983dip</dimen>
+</resources>

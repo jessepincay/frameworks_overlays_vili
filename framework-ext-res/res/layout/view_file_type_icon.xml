@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/container" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/iv_bottom" android:visibility="gone" android:layout_width="@dimen/file_icon_size_small" android:layout_height="@dimen/file_icon_size_small" android:src="@drawable/ic_file_default" android:scaleType="centerInside" android:contentDescription="@string/mi_drop" android:alpha="0.8" android:layout_marginStart="7.1999817dip" />
+    <ImageView android:id="@id/iv_top" android:layout_width="@dimen/file_icon_size" android:layout_height="@dimen/file_icon_size" android:src="@drawable/ic_file_default" android:scaleType="centerInside" android:contentDescription="@string/mi_drop" />
+</FrameLayout>

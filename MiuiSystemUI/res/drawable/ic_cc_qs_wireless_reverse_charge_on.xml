@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="178.0dip" android:width="178.0dip" android:viewportWidth="178.0" android:viewportHeight="178.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000" android:pathData="M64,65.763C57.841,71.595 54,79.849 54,89.001C54,98.152 57.841,106.406 64,112.239" android:strokeColor="@color/cc_qs_tile_icon_color" android:strokeWidth="5.0" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#00000000" android:pathData="M71,73.9C67.28,77.84 65,83.154 65,89C65,94.846 67.28,100.16 71,104.1" android:strokeColor="@color/cc_qs_tile_icon_color" android:strokeWidth="5.0" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#00000000" android:pathData="M112.754,65.5C119.076,71.346 123.035,79.711 123.035,89.001C123.035,98.29 119.076,106.655 112.754,112.501" android:strokeColor="@color/cc_qs_tile_icon_color" android:strokeWidth="5.0" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#00000000" android:pathData="M106,73.865C109.74,77.809 112.035,83.137 112.035,89.001C112.035,94.866 109.74,100.194 106,104.138" android:strokeColor="@color/cc_qs_tile_icon_color" android:strokeWidth="5.0" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="@color/cc_qs_tile_icon_color" android:pathData="M76.525,91.474L95.574,61.874C96.217,60.875 97.762,61.573 97.437,62.715L91.507,83.618C91.319,84.277 91.815,84.933 92.501,84.933H100.606C101.424,84.933 101.918,85.838 101.475,86.526L82.426,116.126C81.783,117.125 80.238,116.427 80.563,115.284L86.493,94.382C86.681,93.722 86.185,93.066 85.499,93.066H77.394C76.576,93.066 76.082,92.162 76.525,91.474Z" />
+</vector>

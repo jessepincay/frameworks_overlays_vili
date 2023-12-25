@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Animation" />
+    <style name="Animation.AutoDisableScreenButtonsFloat" parent="@style/Animation">
+        <item name="android:windowEnterAnimation">@anim/auto_disable_screenbuttons_float_in</item>
+        <item name="android:windowExitAnimation">@anim/auto_disable_screenbuttons_float_out</item>
+    </style>
+    <style name="Animation.GlobalAction" parent="@style/Animation">
+        <item name="android:windowEnterAnimation">@anim/globalaction_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/globalaction_fade_out</item>
+    </style>
+    <style name="Animation.TextSelect" parent="@style/Animation">
+        <item name="android:windowExitAnimation">@anim/text_select_fade_out</item>
+    </style>
+    <style name="Animation.TextSelect.Selection" parent="@style/Animation.TextSelect">
+        <item name="android:windowEnterAnimation">@anim/text_select_selection_fade_in</item>
+        <item name="android:windowExitAnimation">@null</item>
+    </style>
+    <style name="Animation.VolumePanel" parent="@style/Animation">
+        <item name="android:windowEnterAnimation">@anim/volume_panel_in</item>
+        <item name="android:windowExitAnimation">@anim/volume_panel_out</item>
+    </style>
+    <style name="EditorTextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceMediumInverse</item>
+        <item name="android:textSize">@dimen/text_edit_action_popup_text_size</item>
+    </style>
+    <style name="FreeformTipWindow">
+        <item name="android:windowEnterAnimation">@anim/freeform_tip_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/freeform_tip_fade_out</item>
+    </style>
+    <style name="KeyboardButtonNormal">
+        <item name="android:textSize">@dimen/normal_key_text_size</item>
+        <item name="android:textColor">@color/keyboard_key_text</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/btn_keyboard_key</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="KidSpaceSwitchDialog" parent="@android:style/Theme.Holo.Dialog.NoActionBar">
+        <item name="android:windowBackground">@color/switch_dialog_bg</item>
+        <item name="android:windowIsFloating">false</item>
+    </style>
+    <style name="MiuiBootMessageDialog" parent="@android:style/Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">@color/miui_boot_massage_dialog_background_color</item>
+    </style>
+    <style name="MiuiStatusBarState" />
+    <style name="MiuiStatusBarState.ImageView" parent="@style/MiuiStatusBarState">
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">@dimen/mini_state_icon_width</item>
+        <item name="android:layout_height">@dimen/mini_state_icon_height</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="MiuiStatusBarState.ImageView.Mini" parent="@style/MiuiStatusBarState.ImageView">
+        <item name="android:layout_width">@dimen/mini_state_icon_width</item>
+        <item name="android:layout_height">@dimen/mini_state_icon_height</item>
+    </style>
+    <style name="MiuiStatusBarState.Text" parent="@style/MiuiStatusBarState">
+        <item name="android:textSize">@dimen/standard_state_text_size</item>
+        <item name="android:textColor">@color/miui_state_text_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">miui-bold</item>
+    </style>
+    <style name="MiuiStatusBarState.Text.Mini" parent="@style/MiuiStatusBarState.Text">
+        <item name="android:textSize">@dimen/mini_state_text_size</item>
+    </style>
+    <style name="MiuiTextAppearanceAlertDialogListItemSingleChoice" />
+    <style name="MiuiTextAppearanceListSecondary" />
+    <style name="MiuiTextAppearanceWidgetListSecondary" />
+    <style name="MiuiUserSwitchDialog" parent="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen">
+        <item name="android:progressBarStyle">@style/MiuiUserSwitchProgressBar</item>
+    </style>
+    <style name="MiuiUserSwitchProgressBar" parent="@android:style/Widget.ProgressBar">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="MiuiWidgetCompoundButtonCheckBoxDialog" />
+    <style name="SecondSpaceSwitchDialog" parent="@android:style/Theme.Holo.Dialog.NoActionBar">
+        <item name="android:windowBackground">@color/switch_dialog_bg</item>
+        <item name="android:windowIsFloating">false</item>
+    </style>
+    <item type="style" name="android_Animation_RecentApplications">@android:style/Animation.SubMenuPanel</item>
+    <style name="stylus_pen_mask_stylus">
+        <item name="android:textSize">16.879974sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+</resources>

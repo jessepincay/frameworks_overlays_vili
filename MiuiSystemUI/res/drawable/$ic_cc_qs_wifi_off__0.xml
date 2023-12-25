@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="wifi" android:height="178.0dip" android:width="178.0dip" android:viewportWidth="178.0" android:viewportHeight="178.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:name="group">
+        <group android:name="group_4">
+            <path android:name="line_4" android:fillColor="@color/cc_qs_tile_icon_color" android:pathData="M 89.187 65 C 102.52 65 114.655 70.209 123.723 78.731 C 123.785 78.79 123.854 78.855 123.93 78.928 C 124.498 79.471 124.524 80.378 123.989 80.954 C 123.981 80.963 123.973 80.971 123.964 80.979 L 120.981 84.035 C 120.443 84.587 119.57 84.603 119.012 84.072 C 118.955 84.018 118.902 83.969 118.854 83.923 C 111.053 76.625 100.633 72.167 89.187 72.167 C 77.731 72.167 67.302 76.633 59.499 83.943 C 59.456 83.982 59.411 84.026 59.362 84.072 L 59.362 84.072 C 58.804 84.603 57.931 84.587 57.392 84.035 L 54.409 80.979 C 53.86 80.417 53.864 79.509 54.418 78.952 C 54.427 78.944 54.435 78.936 54.444 78.927 C 54.51 78.863 54.572 78.805 54.628 78.752 C 63.699 70.218 75.842 65 89.187 65 Z" android:strokeWidth="1.0" android:fillType="evenOdd" />
+        </group>
+        <group android:name="group_3">
+            <path android:name="line_3" android:fillColor="@color/cc_qs_tile_icon_color" android:pathData="M 89.188 78.901 C 98.971 78.901 107.893 82.64 114.643 88.786 C 114.739 88.873 114.848 88.975 114.971 89.09 L 114.971 89.091 C 115.543 89.629 115.576 90.536 115.045 91.116 C 115.034 91.127 115.024 91.139 115.013 91.15 L 112.028 94.208 C 111.493 94.755 110.627 94.776 110.068 94.253 C 109.92 94.115 109.79 93.996 109.678 93.896 C 104.209 89.023 97.038 86.068 89.188 86.068 C 81.343 86.068 74.177 89.019 68.709 93.886 C 68.594 93.988 68.461 94.111 68.308 94.253 L 68.308 94.253 C 67.749 94.776 66.883 94.755 66.348 94.208 L 63.363 91.15 C 62.814 90.588 62.818 89.68 63.372 89.123 C 63.383 89.112 63.394 89.102 63.405 89.091 C 63.571 88.935 63.716 88.8 63.84 88.688 C 70.578 82.6 79.457 78.901 89.188 78.901 Z" android:strokeWidth="1.0" android:fillType="evenOdd" />
+        </group>
+        <group android:name="group_2">
+            <path android:name="line_2" android:fillColor="@color/cc_qs_tile_icon_color" android:pathData="M 89.2 93.2 C 95.1 93.2 100.6 95.4 104.7 99 C 104.8 99.1 104.9 99.1 105 99.2 C 105.6 99.7 105.6 100.6 105.1 101.2 L 105 101.3 L 102 104.4 C 101.5 104.9 100.6 105 100.1 104.5 C 99.9 104.4 99.8 104.3 99.7 104.2 C 96.8 101.9 93.1 100.5 89.1 100.5 C 85.1 100.5 81.5 101.9 78.6 104.2 C 78.5 104.3 78.3 104.4 78.2 104.6 C 77.6 105.1 76.8 105.1 76.3 104.5 L 73.3 101.4 C 72.8 100.8 72.8 99.9 73.3 99.4 L 73.4 99.3 L 73.7 99 C 77.9 95.4 83.3 93.2 89.2 93.2 Z" android:strokeWidth="1.0" android:fillType="evenOdd" />
+        </group>
+        <group android:name="group_1">
+            <path android:name="line_1" android:fillColor="@color/cc_qs_tile_icon_color" android:pathData="M 89.2 107.1 C 91.9 107.1 94.3 108 96.2 109.6 C 96.7 110 96.7 110.7 96.4 111.2 L 96.3 111.3 L 90.2 117.6 C 89.7 118.2 88.8 118.2 88.2 117.6 L 82.1 111.3 C 81.7 110.9 81.7 110.2 82.1 109.7 L 82.2 109.6 C 84.1 108.1 86.5 107.1 89.2 107.1 Z" android:strokeWidth="1.0" android:fillType="evenOdd" />
+        </group>
+    </group>
+</vector>

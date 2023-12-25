@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.smooth.SmoothContainerDrawable android:radius="13.099976dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <child>
+        <shape>
+            <solid android:color="@color/choose_keyguard_clock_item_bg" />
+        </shape>
+    </child>
+</miuix.smooth.SmoothContainerDrawable>

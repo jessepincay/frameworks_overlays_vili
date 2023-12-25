@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="auto_on" android:height="178.0dip" android:width="178.0dip" android:viewportWidth="178.0" android:viewportHeight="178.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:name="letter" android:fillColor="@color/cc_qs_tile_icon_color_off" android:pathData="M 85.342 61.165 L 62.082 114.429 C 62.028 114.564 62 114.708 62 114.854 C 62 115.487 62.513 116 63.146 116 L 67.121 116 C 67.593 116 68.016 115.712 68.188 115.273 L 75.313 99 L 101.759 99 L 108.884 115.273 C 109.057 115.712 109.48 116 109.951 116 L 113.926 116 C 114.072 116 114.216 115.972 114.351 115.918 C 114.939 115.684 115.225 115.017 114.991 114.429 L 91.73 61.165 C 91.38 60.289 90.687 59.596 89.811 59.246 C 88.047 58.542 86.046 59.401 85.342 61.165 Z M 98.694 92 L 89.603 71.237 C 89.371 70.648 88.706 70.358 88.117 70.59 C 87.82 70.706 87.586 70.941 87.469 71.237 L 78.378 92 L 98.694 92 Z" android:strokeColor="@color/cc_qs_tile_icon_color_off" android:strokeWidth="1.5" android:fillType="evenOdd" />
+</vector>

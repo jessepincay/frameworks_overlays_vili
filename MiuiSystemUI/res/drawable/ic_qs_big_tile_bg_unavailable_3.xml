@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.controlcenter.utils.SmoothRoundDrawable android:color="@color/qs_control_big_tile_3_bg_unavailable" android:radius="@dimen/qs_control_corner_general_radius"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

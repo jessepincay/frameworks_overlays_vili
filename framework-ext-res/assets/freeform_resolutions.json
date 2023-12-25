@@ -1,0 +1,106 @@
+{
+  "yunluo": {
+    "freeform_args": {
+      "vertical_portrait":{"aspect_ratio":0.5625, "original_ratio":0.48,"original_scale":0.6133,"top_margin":0.049,"left_margin":0.2775},
+      "horizontal_portrait":{"aspect_ratio":0.5625, "original_ratio":0.48,"original_scale":0.6133,"top_margin":-1,"left_margin":0.6525},
+      "vertical_landscape":{"aspect_ratio":-1, "original_ratio":1,"original_scale":0.468,"top_margin":0.049,"left_margin":-1},
+      "horizontal_landscape":{"aspect_ratio":-1, "original_ratio":1,"original_scale":0.468,"top_margin":-1,"left_margin":0.4976}
+    },
+    "mini_freeform_args":{
+      "vertical_portrait":{"aspect_ratio":0.5625, "original_ratio":0.1917},
+      "horizontal_portrait":{"aspect_ratio":0.5625, "original_ratio":0.1917},
+      "vertical_landscape":{"aspect_ratio":-1, "original_ratio":0.2667},
+      "horizontal_landscape":{"aspect_ratio":-1, "original_ratio":0.2667}
+    }
+  },
+
+  "zizhan":{
+    "freeform_args": {
+      "inner":{
+        "vertical_portrait":{"aspect_ratio":0.626, "original_ratio":0.5643,"original_scale":0.74,"top_margin":0.168,"left_margin":0.484},
+        "horizontal_portrait":{"aspect_ratio":0.626, "original_ratio":0.5643,"original_scale":0.74,"top_margin":0.1222,"left_margin":0.59745},
+        "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.604,"top_margin":0.2596,"left_margin":0.2624},
+        "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.604,"top_margin":0.213,"left_margin":0.3758}
+      },
+      "outer":{
+        "vertical_portrait":{"aspect_ratio":0.626, "original_ratio":1,"original_scale":0.74,"top_margin":0.0753,"left_margin":-1},
+        "horizontal_portrait":{"aspect_ratio":0.626, "original_ratio":1,"original_scale":0.5756,"top_margin":-1,"left_margin":0.0753},
+        "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":0.6847,"original_scale":0.587,"top_margin":0.0753,"left_margin":-1},
+        "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":0.6847,"original_scale":0.587,"top_margin":-1,"left_margin":0.0753}}
+    },
+    "mini_freeform_args":{
+      "inner":{
+        "vertical_portrait":{"aspect_ratio":0.626, "original_ratio":0.147},
+        "horizontal_portrait":{"aspect_ratio":0.626, "original_ratio":0.147},
+        "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":0.165},
+        "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":0.165}
+      },
+      "outer":{
+        "vertical_portrait":{"aspect_ratio":0.626, "original_ratio":0.26},
+        "horizontal_portrait":{"aspect_ratio":0.626, "original_ratio":0.26},
+        "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":0.293},
+        "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":0.293}}
+    }
+  },
+
+  "wide_default":{
+    "freeform_args": {
+        "vertical_portrait":{"aspect_ratio":0.625, "original_ratio":0.5806,"original_scale":0.7574,"top_margin":0.125,"left_margin":0.392},
+        "horizontal_portrait":{"aspect_ratio":0.625, "original_ratio":0.5806,"original_scale":0.7574,"top_margin":-1,"left_margin":0.6415},
+        "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.5153,"top_margin":0.125,"left_margin":0.206},
+        "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.5153,"top_margin":-1,"left_margin":0.456}
+    },
+    "mini_freeform_args":{
+        "vertical_portrait":{"aspect_ratio":0.5625, "original_ratio":0.144},
+        "horizontal_portrait":{"aspect_ratio":0.5625, "original_ratio":0.144},
+        "vertical_landscape":{"aspect_ratio":-1, "original_ratio":0.144},
+        "horizontal_landscape":{"aspect_ratio":-1, "original_ratio":0.144}
+    }
+  },
+
+  "narrow_default": {
+    "freeform_args": {
+        "vertical_portrait":{"aspect_ratio":0.5625, "original_ratio":1,"original_scale":0.7182,"top_margin":0.142,"left_margin":-1},
+        "horizontal_portrait":{"aspect_ratio":0.8, "original_ratio":1,"original_scale":0.7182,"top_margin":-1,"left_margin":0.05},
+        "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":0.6545,"original_scale":0.4473,"top_margin":0.142,"left_margin":-1},
+        "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":0.6545,"original_scale":0.4473,"top_margin":-1,"left_margin":0.05}
+    },
+    "mini_freeform_args":{
+        "vertical_portrait":{"aspect_ratio":0.5625, "original_ratio":0.3},
+        "horizontal_portrait":{"aspect_ratio":0.5625, "original_ratio":0.3},
+        "vertical_landscape":{"aspect_ratio":1.7778, "original_ratio":0.3},
+        "horizontal_landscape":{"aspect_ratio":1.7778, "original_ratio":0.3}
+    }
+  },
+
+  "regular_default": {
+    "freeform_args": {
+      "vertical_portrait":{"aspect_ratio":0.625, "original_ratio":1,"original_scale":0.7,"top_margin":0.109,"left_margin":-1},
+      "horizontal_portrait":{"aspect_ratio":0.6667, "original_ratio":1,"original_scale":0.6102,"top_margin":-1,"left_margin":0.026},
+      "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.4244,"top_margin":0.109,"left_margin":-1},
+      "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.4244,"top_margin":-1,"left_margin":0.026}
+    },
+    "mini_freeform_args":{
+      "vertical_portrait":{"aspect_ratio":0.5625, "original_ratio":0.25},
+      "horizontal_portrait":{"aspect_ratio":0.5625, "original_ratio":0.25},
+      "vertical_landscape":{"aspect_ratio":1.7778, "original_ratio":0.25},
+      "horizontal_landscape":{"aspect_ratio":1.7778, "original_ratio":0.25}
+    }
+  },
+
+  "pad_default": {
+    "freeform_args": {
+      "vertical_portrait":{"aspect_ratio":0.5625, "original_ratio":0.375,"original_scale":0.835,"top_margin":0.049,"left_margin":0.2775},
+      "horizontal_portrait":{"aspect_ratio":0.5625, "original_ratio":0.375,"original_scale":0.835,"top_margin":-1,"left_margin":0.6525},
+      "vertical_landscape":{"aspect_ratio":-1, "original_ratio":1,"original_scale":0.468,"top_margin":0.049,"left_margin":-1},
+      "horizontal_landscape":{"aspect_ratio":-1, "original_ratio":1,"original_scale":0.468,"top_margin":-1,"left_margin":0.4976}
+    },
+    "mini_freeform_args":{
+      "vertical_portrait":{"aspect_ratio":0.5625, "original_ratio":0.144},
+      "horizontal_portrait":{"aspect_ratio":0.5625, "original_ratio":0.144},
+      "vertical_landscape":{"aspect_ratio":-1, "original_ratio":0.2},
+      "horizontal_landscape":{"aspect_ratio":-1, "original_ratio":0.2}
+    }
+  }
+
+}

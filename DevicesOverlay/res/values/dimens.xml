@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="new_round_height_bottom">90.0px</dimen>
+    <dimen name="new_round_height_top">90.0px</dimen>
+    <dimen name="notch_height">84.0px</dimen>
+    <dimen name="notch_width">54.0px</dimen>
+    <dimen name="rounded_corner_content_padding">52.0px</dimen>
+</resources>

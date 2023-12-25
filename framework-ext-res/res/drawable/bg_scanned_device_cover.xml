@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/mishare_scanned_device_size" android:width="@dimen/mishare_scanned_device_size" android:viewportWidth="170.0" android:viewportHeight="170.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000" android:pathData="M85 170C131.944 170 170 131.944 170 85C170 38.0558 131.944 0 85 0C38.0558 0 0 38.0558 0 85C0 131.944 38.0558 170 85 170Z" />
+    <group>
+        <clip-path android:pathData="M85,170C131.944,170 170,131.944 170,85C170,38.056 131.944,0 85,0C38.056,0 0,38.056 0,85C0,131.944 38.056,170 85,170Z" />
+        <path android:fillColor="#ffffffff" android:pathData="M164,124H6V170H164V124Z" android:strokeAlpha="0.7" android:fillAlpha="0.7" />
+    </group>
+</vector>

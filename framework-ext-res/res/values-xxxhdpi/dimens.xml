@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corners_trans_file_type">9.149994dip</dimen>
+    <dimen name="customizer_icon_content_size">52.0dip</dimen>
+    <dimen name="customizer_icon_size">56.0dip</dimen>
+    <dimen name="file_count_textsize">15.199982sp</dimen>
+    <dimen name="file_icon_size">35.0dip</dimen>
+    <dimen name="file_icon_size_small">31.429993dip</dimen>
+    <dimen name="file_type_container_height">71.619995dip</dimen>
+    <dimen name="height_logo">16.75998dip</dimen>
+    <dimen name="layout_padding_horizon">30.379974dip</dimen>
+    <dimen name="mishare_device_divider_half">1.8999939dip</dimen>
+    <dimen name="mishare_device_divider_padding_start">19.71997dip</dimen>
+    <dimen name="mishare_device_divider_space">21.329987dip</dimen>
+    <dimen name="mishare_device_divider_start">25.519989dip</dimen>
+    <dimen name="mishare_device_logo_bg_height">17.529999dip</dimen>
+    <dimen name="mishare_device_name_margin_horizon">5.519989dip</dimen>
+    <dimen name="mishare_device_name_margin_top">2.4699707dip</dimen>
+    <dimen name="mishare_device_view_height">149.13998dip</dimen>
+    <dimen name="mishare_scanned_device_size">64.75998dip</dimen>
+    <dimen name="rl_device_marginTop">6.6999817dip</dimen>
+    <dimen name="send_to_margin_start">30.47998dip</dimen>
+    <dimen name="single_file_name_textsize">15.199982sp</dimen>
+    <dimen name="size_progress">75.81dip</dimen>
+    <dimen name="size_wave">80.0dip</dimen>
+    <dimen name="text_action_next_height">16.75998dip</dimen>
+    <dimen name="text_action_next_width">17.899994dip</dimen>
+    <dimen name="text_action_previous_height">16.0dip</dimen>
+    <dimen name="text_action_previous_width">16.0dip</dimen>
+    <dimen name="customizer_irregular_content_size">40.0dip</dimen>
+</resources>

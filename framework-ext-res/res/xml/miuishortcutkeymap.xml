@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcutkeys>
+    <shortcutkey action="key_combination_power_back" combationkey="4" isglobal="0" primarykey="26" type="combination" />
+    <shortcutkey action="key_combination_power_home" combationkey="3" isglobal="0" primarykey="26" type="combination" />
+    <shortcutkey action="key_combination_power_menu" combationkey="82" isglobal="0" primarykey="26" type="combination" />
+    <shortcutkey action="key_combination_power_volume_down" combationkey="25" function="screen_shot" isglobal="3" primarykey="26" type="combination" />
+    <shortcutkey action="long_press_power_key" isglobal="0" primarykey="26" type="longpress" />
+    <shortcutkey action="long_press_home_key" function="launch_voice_assistant" isglobal="0" primarykey="3" type="longpress" />
+    <shortcutkey action="long_press_back_key" isglobal="0" primarykey="4" type="longpress" />
+    <shortcutkey action="long_press_menu_key" function="show_menu" isglobal="3" primarykey="82" type="longpress" />
+    <shortcutkey action="double_click_power_key" function="mi_pay" isglobal="0" primarykey="26" type="doubleclick" />
+    <shortcutkey action="knock_slide_shape" isglobal="0" type="gesture" />
+    <shortcutkey action="knock_vertical_slid" isglobal="0" type="gesture" />
+    <shortcutkey action="knock_long_press_horizontal_slid" isglobal="0" type="gesture" />
+    <shortcutkey action="knock_gesture_v" isglobal="0" type="gesture" />
+    <shortcutkey action="double_knock" isglobal="0" type="gesture" />
+    <shortcutkey action="three_gesture_down" function="screen_shot" isglobal="3" type="gesture" />
+    <shortcutkey action="three_gesture_long_press" function="partial_screen_shot" isglobal="3" type="gesture" />
+    <shortcutkey action="fingerprint_double_tap" isglobal="0" type="gesture" />
+    <shortcutkey action="back_double_tap" isglobal="0" type="gesture" />
+    <shortcutkey action="back_triple_tap" isglobal="0" type="gesture" />
+    <shortcutkey action="long_press_home_key" function="launch_google_search" isglobal="1" primarykey="3" type="longpress" />
+    <shortcutkey action="double_click_power_key" intercept="1" isglobal="1" primarykey="26" type="doubleclick" />
+</shortcutkeys>

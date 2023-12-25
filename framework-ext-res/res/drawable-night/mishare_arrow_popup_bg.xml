@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingTop="@dimen/arrow_popup_view_paddingTop" android:paddingBottom="@dimen/arrow_popup_view_paddingBottom" android:paddingStart="@dimen/arrow_popup_view_paddingStart" android:paddingEnd="@dimen/arrow_popup_view_paddingEnd"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/arrow_popup_view_paddingStart" android:top="@dimen/arrow_popup_view_paddingTop" android:right="@dimen/arrow_popup_view_paddingEnd" android:bottom="@dimen/arrow_popup_view_paddingBottom">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/arrow_popup_triangle_color" />
+            <corners android:radius="@dimen/arrow_popup_view_round_corners" />
+        </shape>
+    </item>
+</layer-list>

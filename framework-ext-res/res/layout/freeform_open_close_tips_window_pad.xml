@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:background="@drawable/freeform_tips_background" android:layout_width="@dimen/open_close_tips_width_pad" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:paddingBottom="@dimen/open_close_tips_padding_bottom_pad" android:layout_width="@dimen/open_close_tips_width_pad" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/open_close_tips_introduction_text_size_pad" android:textColor="#ffffffff" android:gravity="center|top" android:layout_gravity="center_horizontal" android:id="@id/content" android:layout_width="@dimen/open_close_tips_introduction_width_pad" android:layout_height="wrap_content" android:layout_marginTop="@dimen/open_close_tips_introduction_margin_top_pad" android:text="@string/open_close_tip_content" android:singleLine="false" android:fontFamily="mipro-medium" />
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/action" android:background="@drawable/freeform_tip_action_background" android:layout_width="@dimen/open_close_tips_action_width_pad" android:layout_height="@dimen/open_close_tips_action_height_pad" android:layout_marginTop="@dimen/open_close_tips_action_margin_top_pad" android:layout_marginBottom="@dimen/open_close_tips_action_margin_bottom_pad">
+            <TextView android:textSize="@dimen/open_close_tips_action_text_size_pad" android:textColor="#ffffffff" android:gravity="center|top" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="@dimen/open_close_tips_action_text_height_pad" android:layout_marginTop="@dimen/open_close_tips_action_text_margin_top_pad" android:text="@string/open_close_tip_action" android:alpha="0.7" android:fontFamily="mipro-medium" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

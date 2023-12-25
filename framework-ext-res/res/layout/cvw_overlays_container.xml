@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.server.wm.MiuiCvwOverlayView android:id="@id/container" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/cover_content" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <View android:id="@id/content" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/mark_content" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.android.server.wm.MiuiCvwFreeformShapeView android:id="@id/shape" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.android.server.wm.MiuiCvwRadiateImageView android:layout_gravity="center" android:id="@id/iconShadow" android:layout_width="1600.0px" android:layout_height="1600.0px" />
+        <ImageView android:layout_gravity="center" android:id="@id/icon" android:layout_width="69.0dip" android:layout_height="69.0dip" android:foregroundGravity="center" />
+        <TextView android:textSize="32.0px" android:textColor="@color/miui_cvw_mini_text_color" android:layout_gravity="center" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/small_freeform_enter_warning" android:fontFamily="miui-bold" /> /> </FrameLayout>
+</com.android.server.wm.MiuiCvwOverlayView>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14.0dip</dimen>
+    <dimen name="biometric_dialog_button_negative_max_width">140.0dip</dimen>
+    <dimen name="biometric_dialog_button_positive_max_width">116.0dip</dimen>
+    <item type="dimen" name="bouncer_user_switcher_y_trans">@dimen/status_bar_height</item>
+    <dimen name="bubble_padding_top">4.0dip</dimen>
+    <dimen name="controls_management_favorites_top_margin">8.0dip</dimen>
+    <dimen name="controls_management_footer_height">56.0dip</dimen>
+    <dimen name="controls_management_footer_top_margin">4.0dip</dimen>
+    <dimen name="controls_management_indicator_top_margin">8.0dip</dimen>
+    <dimen name="controls_management_list_margin">4.0dip</dimen>
+    <dimen name="controls_management_titles_margin">8.0dip</dimen>
+    <dimen name="controls_management_top_padding">12.0dip</dimen>
+    <dimen name="controls_management_zone_top_margin">24.0dip</dimen>
+    <dimen name="dock_indicator_handle_width">191.10999dip</dimen>
+    <dimen name="docked_divider_handle_height">16.0dip</dimen>
+    <dimen name="docked_divider_handle_height_in_cts_mode">72.0dip</dimen>
+    <dimen name="docked_divider_handle_width">2.0dip</dimen>
+    <dimen name="docked_divider_handle_width_in_cts_mode">3.0dip</dimen>
+    <dimen name="expanded_notification_header_bottom">3.0dip</dimen>
+    <dimen name="global_actions_power_dialog_item_bottom_margin">35.0dip</dimen>
+    <dimen name="global_actions_power_dialog_item_height">130.0dip</dimen>
+    <dimen name="keyguard_eca_bottom_margin">2.0dip</dimen>
+    <dimen name="keyguard_eca_top_margin">0.0dip</dimen>
+    <dimen name="keyguard_password_height">26.0dip</dimen>
+    <dimen name="large_dialog_width">348.0dip</dimen>
+    <dimen name="material_time_picker_minimum_screen_height">450.0dip</dimen>
+    <dimen name="material_time_picker_minimum_screen_width">600.0dip</dimen>
+    <dimen name="mini_window_max_trigger_threshold">80.0dip</dimen>
+    <dimen name="miui_shortcuts_item_min_width">330.0dip</dimen>
+    <dimen name="miuix_appcompat_action_bar_default_height">48.669983dip</dimen>
+    <dimen name="miuix_appcompat_action_bar_horizontal_padding_end">43.399994dip</dimen>
+    <dimen name="miuix_appcompat_action_bar_horizontal_padding_start">43.399994dip</dimen>
+    <dimen name="miuix_appcompat_action_bar_title_horizontal_padding">43.399994dip</dimen>
+    <dimen name="miuix_appcompat_action_button_bg_bottom_padding">9.599976dip</dimen>
+    <dimen name="miuix_appcompat_action_button_bg_top_padding">9.599976dip</dimen>
+    <item type="dimen" name="miuix_appcompat_subtitle_text_size">@dimen/miuix_appcompat_title_text_size</item>
+    <dimen name="mr_controller_volume_group_list_item_height">61.0dip</dimen>
+    <dimen name="mr_controller_volume_group_list_item_icon_size">18.0dip</dimen>
+    <dimen name="mr_controller_volume_group_list_max_height">132.0dip</dimen>
+    <dimen name="mtrl_alert_dialog_background_inset_bottom">24.0dip</dimen>
+    <dimen name="mtrl_alert_dialog_background_inset_top">24.0dip</dimen>
+    <dimen name="mtrl_calendar_days_of_week_height">20.0dip</dimen>
+    <dimen name="mtrl_calendar_header_content_padding">4.0dip</dimen>
+    <dimen name="mtrl_calendar_header_height_fullscreen">96.0dip</dimen>
+    <dimen name="mtrl_calendar_header_toggle_margin_bottom">0.0dip</dimen>
+    <dimen name="mtrl_calendar_header_toggle_margin_top">0.0dip</dimen>
+    <dimen name="mtrl_calendar_landscape_header_width">104.0dip</dimen>
+    <dimen name="mtrl_calendar_selection_baseline_to_top_fullscreen">68.0dip</dimen>
+    <dimen name="mtrl_calendar_selection_text_baseline_to_bottom_fullscreen">28.0dip</dimen>
+    <dimen name="mtrl_calendar_selection_text_baseline_to_top">64.0dip</dimen>
+    <dimen name="mtrl_calendar_text_input_padding_top">32.0dip</dimen>
+    <dimen name="mtrl_calendar_title_baseline_to_top">24.0dip</dimen>
+    <dimen name="mtrl_calendar_title_baseline_to_top_fullscreen">32.0dip</dimen>
+    <item type="dimen" name="navigation_bar_size">@android:dimen/navigation_bar_height_portrait</item>
+    <dimen name="navigation_home_handle_width">254.0dip</dimen>
+    <item type="dimen" name="notch_expanded_header_height">@dimen/status_bar_height</item>
+    <dimen name="notification_clear_all_bottom_margin">0.0dip</dimen>
+    <dimen name="notification_clear_all_end_margin">34.19998dip</dimen>
+    <dimen name="notification_panel_width">420.66406dip</dimen>
+    <item type="dimen" name="ns_notification_header_padding">@dimen/notification_side_paddings</item>
+    <dimen name="num_pad_entry_row_margin_bottom">0.0dip</dimen>
+    <dimen name="num_pad_row_margin_bottom">3.0dip</dimen>
+    <dimen name="qqs_layout_margin_top">8.0dip</dimen>
+    <dimen name="qs_brightness_margin_bottom">12.0dip</dimen>
+    <dimen name="qs_brightness_margin_top">0.0dip</dimen>
+    <dimen name="qs_control_center_header_paddingTop">0.0dip</dimen>
+    <dimen name="qs_customer_added_tile_height_for_pad">361.8125dip</dimen>
+    <dimen name="qs_detail_items_min_height">0.0dip</dimen>
+    <item type="dimen" name="qs_detail_margin_top">@dimen/status_bar_height</item>
+    <dimen name="qs_footer_padding">14.0dip</dimen>
+    <dimen name="qs_header_top_padding">4.0dip</dimen>
+    <item type="dimen" name="qs_panel_padding_top">@dimen/qqs_layout_margin_top</item>
+    <dimen name="qs_security_footer_background_inset">12.0dip</dimen>
+    <item type="dimen" name="qs_security_footer_single_line_height">@android:dimen/resolver_empty_state_container_padding_bottom</item>
+    <dimen name="split_divider_handle_height">72.0dip</dimen>
+    <dimen name="split_divider_handle_width">3.0dip</dimen>
+    <dimen name="status_bar_padding_end">8.0dip</dimen>
+    <dimen name="status_bar_padding_start">8.0dip</dimen>
+    <dimen name="sud_card_title_padding_bottom">0.0dip</dimen>
+    <dimen name="sud_card_title_padding_end">32.0dip</dimen>
+    <dimen name="sud_card_title_padding_start">56.0dip</dimen>
+    <dimen name="sud_card_title_padding_top">24.0dip</dimen>
+    <dimen name="sud_content_loading_frame_padding_bottom">24.0dip</dimen>
+    <dimen name="sud_content_loading_frame_padding_end">0.0dip</dimen>
+    <dimen name="sud_content_loading_frame_padding_start">0.0dip</dimen>
+    <dimen name="sud_decor_padding_top">0.0dip</dimen>
+    <dimen name="sud_glif_button_min_height">36.0dip</dimen>
+    <dimen name="sud_glif_card_height">560.0dip</dimen>
+    <dimen name="sud_glif_card_width">672.0dip</dimen>
+    <dimen name="sud_glif_content_padding_top">32.0dip</dimen>
+    <dimen name="sud_glif_content_padding_top_material_you">32.0dip</dimen>
+    <dimen name="sud_glif_description_margin_top">8.0dip</dimen>
+    <dimen name="sud_glif_footer_bar_min_height">52.0dip</dimen>
+    <dimen name="sud_glif_footer_bar_min_height_material_you">52.0dip</dimen>
+    <dimen name="sud_glif_footer_bar_padding_end_material_you">28.0dip</dimen>
+    <dimen name="sud_glif_footer_bar_padding_start_material_you">16.0dip</dimen>
+    <dimen name="sud_glif_footer_bar_padding_vertical_material_you">0.0dip</dimen>
+    <dimen name="sud_glif_footer_padding_end">28.0dip</dimen>
+    <dimen name="sud_glif_footer_padding_start">16.0dip</dimen>
+    <dimen name="sud_glif_footer_padding_vertical">0.0dip</dimen>
+    <dimen name="sud_glif_header_title_margin_bottom">0.0dip</dimen>
+    <dimen name="sud_glif_header_title_margin_top">24.0dip</dimen>
+    <dimen name="sud_glif_icon_margin_top">32.0dip</dimen>
+    <dimen name="sud_glif_margin_end">32.0dip</dimen>
+    <dimen name="sud_glif_margin_end_material_you">32.0dip</dimen>
+    <dimen name="sud_glif_margin_start">32.0dip</dimen>
+    <dimen name="sud_glif_margin_start_material_you">32.0dip</dimen>
+    <item type="dimen" name="sud_illustration_aspect_ratio">0.0</item>
+    <dimen name="volume_row_slider_height">128.0dip</dimen>
+    <dimen name="wallet_card_carousel_container_top_margin">24.0dip</dimen>
+    <dimen name="controls_activity_view_top_offset">25.0dip</dimen>
+    <dimen name="volume_tool_tip_top_margin">12.0dip</dimen>
+</resources>

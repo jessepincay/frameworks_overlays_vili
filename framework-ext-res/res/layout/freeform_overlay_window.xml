@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.server.wm.MiuiFreeFormOverlayView android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.server.wm.MiuiFreeFormRoundRectView android:id="@id/border" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <View android:id="@id/content" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.android.server.wm.MiuiFreeFormRadiateImageView android:layout_gravity="center" android:id="@id/radiate_icon" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.android.server.wm.MiuiFreeFormOverlayView>

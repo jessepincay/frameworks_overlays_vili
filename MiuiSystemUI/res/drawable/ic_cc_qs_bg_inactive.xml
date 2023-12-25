@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="178.0dip" android:width="178.0dip" android:viewportWidth="178.0" android:viewportHeight="178.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/qs_control_tile_icon_disabled_color" android:pathData="M89,178C138.153,178 178,138.153 178,89C178,39.847 138.153,0 89,0C39.847,0 0,39.847 0,89C0,138.153 39.847,178 89,178Z" />
+    <path android:fillColor="#ffd9d9d9" android:pathData="M89,178C138.153,178 178,138.153 178,89C178,39.847 138.153,0 89,0C39.847,0 0,39.847 0,89C0,138.153 39.847,178 89,178Z" android:fillAlpha="0.15" />
+</vector>

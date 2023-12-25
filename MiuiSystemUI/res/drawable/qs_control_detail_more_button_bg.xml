@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="43.636353dip" android:width="280.72656dip" android:viewportWidth="772.0" android:viewportHeight="120.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group>
+        <clip-path android:pathData="M60 0H712C745.137 0 772 26.8629 772 60C772 93.1371 745.137 120 712 120H60C26.8629 120 0 93.1371 0 60C0 26.8629 26.8629 0 60 0Z" />
+        <path android:fillColor="@color/qs_control_detail_more_button_bg_color" android:pathData="M0 0V120H772V0" />
+    </group>
+</vector>

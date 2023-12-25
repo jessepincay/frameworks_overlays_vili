@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="0.36dip" android:width="0.36dip" />
+    <solid android:color="@color/miui_freeform_overlay_view_bg_color" />
+</shape>

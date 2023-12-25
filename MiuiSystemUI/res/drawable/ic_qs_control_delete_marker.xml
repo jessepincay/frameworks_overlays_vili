@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="23.272705dip" android:width="23.272705dip" android:viewportWidth="64.0" android:viewportHeight="64.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/qs_control_customizer_delete_marker_color_out" android:pathData="M32,0C14.327,0 0,14.327 0,32C0,49.674 14.327,64 32,64C49.673,64 64,49.674 64,32C64,14.327 49.673,0 32,0Z" android:fillType="evenOdd" />
+    <path android:fillColor="@color/qs_control_customizer_delete_marker_color_in" android:pathData="M18.19,28.8896L46.01,28.8896A3.21,3.21 0,0 1,49.22 32.0996L49.22,32.0996A3.21,3.21 0,0 1,46.01 35.3096L18.19,35.3096A3.21,3.21 0,0 1,14.98 32.0996L14.98,32.0996A3.21,3.21 0,0 1,18.19 28.8896z" />
+</vector>

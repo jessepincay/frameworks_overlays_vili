@@ -1,0 +1,93 @@
+{
+  "com.xiaomi.mipicks": {
+    "rsa_enable_list": {
+        "tier2":[
+          "TH",
+          "PH",
+          "VN",
+          "MY"
+        ]
+    },
+    "rsa4_enable_list": {
+        "tier_all":[
+          "TH",
+          "PH",
+          "VN",
+          "MY",
+          "BR",
+          "MX",
+          "EG",
+          "CL",
+          "CO",
+          "SA",
+          "PE",
+          "MA",
+          "JP",
+          "MM",
+          "PK",
+          "ZA"
+        ]
+    },
+    "enable_list": [
+      "IN",
+      "ID",
+      "RU",
+      "TR",
+      "ES"
+    ],
+    "shouldKeep": false
+  },
+  "com.mipay.wallet.in": {
+    "enable_list": [
+      "IN"
+    ],
+    "shouldKeep": false
+  },
+  "com.miui.virtualsim": {
+    "enable_list": [
+      "ID"
+    ],
+    "shouldKeep": false
+  },
+  "com.mi.globalTrendNews": {},
+  "com.micredit.in": {
+    "enable_list": [
+      "IN"
+    ],
+    "shouldKeep": false
+  },
+  "com.mi.global.shop": {
+    "enable_list": [
+      "IN",
+      "TW",
+      "HK",
+      "ES",
+      "FR",
+      "ID",
+      "RU",
+      "IT",
+      "GB",
+      "DE",
+      "TR",
+      "JP",
+      "NL",
+      "PL"
+    ],
+    "shouldKeep": false
+  },
+  "com.mi.global.pocostore": {
+      "enable_list": [
+        "TW",
+        "HK",
+        "ES",
+        "FR",
+        "ID",
+        "RU",
+        "IT",
+        "GB",
+        "DE",
+        "NL"
+      ],
+      "shouldKeep": false
+    }
+}

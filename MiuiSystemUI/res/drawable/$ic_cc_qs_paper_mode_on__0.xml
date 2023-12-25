@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="eye" android:height="178.0dip" android:width="178.0dip" android:viewportWidth="178.0" android:viewportHeight="178.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:name="group_1">
+        <path android:name="path_1" android:pathData="M 55 88.968 C 60.055 74.478 74.438 64 89 64 C 103.562 64 117.945 74.478 123 88.968 C 117.911 103.492 103.388 114 89 114 C 74.612 114 60.089 103.492 55 88.968 Z" android:strokeColor="@color/cc_qs_tile_icon_color" android:strokeWidth="6.0" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    </group>
+    <group android:name="group" android:pivotX="89.0" android:pivotY="89.0">
+        <clip-path android:name="mask" android:pathData="M 55 89 C 60.1 74.5 74.4 64 89 64 C 103.6 64 117.9 74.5 123 89 C 117.9 103.5 103.4 114 89 114 C 74.6 114 60.1 103.5 55 89 Z" />
+        <group android:name="group_2" android:pivotX="89.0" android:pivotY="89.0">
+            <path android:name="ball" android:fillColor="@color/cc_qs_tile_icon_color" android:pathData="M 89 102 C 96.2 102 102 96.2 102 89 C 102 81.8 96.2 76 89 76 C 81.8 76 76 81.8 76 89 C 76 96.2 81.8 102 89 102 Z" android:strokeWidth="1.0" />
+        </group>
+    </group>
+</vector>

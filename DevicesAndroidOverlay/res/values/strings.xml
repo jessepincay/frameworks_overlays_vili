@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_dozeComponent">com.miui.aod/com.miui.aod.doze.DozeService</string>
+    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -27 V 84 H 27 V 0 H 0 Z</string>
+    <string name="ext_media_ready_notification_message">Tap to safely remove device</string>
+</resources>

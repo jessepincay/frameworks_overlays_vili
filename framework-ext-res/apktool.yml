@@ -1,0 +1,25 @@
+version: 2.9.0
+apkFileName: framework-ext-res.apk
+isFrameworkApk: true
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 33
+  targetSdkVersion: 33
+packageInfo:
+  forcedPackageId: 17
+  renameManifestPackage: com.miui.rom
+versionInfo:
+  versionCode: 1110000
+  versionName: 1.11.0.0
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+doNotCompress:
+- resources.arsc
+- png
+- jpg
+- ogg
+- res/raw/op_enable_list

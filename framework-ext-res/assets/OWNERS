@@ -1,0 +1,13 @@
+set noparent
+# This top-level list should remain narrowly defined as team leads; individual
+# teams are strongly encouraged to define narrower OWNERS files at deeper
+# levels within the source tree; see OWNERS.md for more details
+qujianjiang@xiaomi.com
+yeqianqian@xiaomi.com
+
+
+
+
+
+
+

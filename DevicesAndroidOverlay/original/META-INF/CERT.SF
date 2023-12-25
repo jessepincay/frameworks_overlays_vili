@@ -1,0 +1,17 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: megXpdO4Qo5SQ4EdIYPAy4hf1mQdB3Xd1WlK2xsahBA=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: /HgKUcIS0Q4BIknXY4S4TmB51bWbHPO1NsKf1Ny/qcM=
+
+Name: res/anim/wallpaper_open_exit.xml
+SHA-256-Digest: 6m96ujJCq3zXiEOsbLW7WRd9C2Fu9NoTjiUnY+SJ0RM=
+
+Name: res/drawable/ic_media_seamless.xml
+SHA-256-Digest: VOJf2gJrA/p6kJY/HQ5zGTCkdUR7w6J0kYygse7wxyA=
+
+Name: resources.arsc
+SHA-256-Digest: IFclt+IH1d1F9KU7bOXZDRMDxM/imRVr8ZIcqDrCIWw=
+
